@@ -44,7 +44,7 @@ A wide variety of rich visualizations are included — from histograms and boxpl
 
 - `ZomatoData.csv` – Dataset file  
 - `probproject.R` – Main R script for the analysis  
-- `/plots/` –  Folder containing few generated visualizations  
+- `/Screenshots/` –    few generated visualizations  
 
 ---
 
