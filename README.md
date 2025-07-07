@@ -3,7 +3,7 @@
 An in-depth exploratory and statistical analysis of Zomato restaurant data using R.  
 This project focuses on uncovering patterns in customer ratings, cost trends, and cuisine preferences across different cities. The analysis includes data cleaning, transformation, outlier detection, correlation analysis, and both simple and multiple linear regression models.
 
-A wide variety of rich visualizations are included — from histograms and boxplots to heatmaps, streamgraphs, interactive plots, and animated charts — all aimed at revealing insightful trends in the restaurant industry.
+A wide variety of rich visualizations are included from histograms and boxplots to heatmaps, streamgraphs, interactive plots, and animated charts — all aimed at revealing insightful trends in the restaurant industry.
 
 ---
 
