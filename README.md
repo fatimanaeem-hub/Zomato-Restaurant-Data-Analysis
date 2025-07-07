@@ -43,7 +43,7 @@ A wide variety of rich visualizations are included — from histograms and boxpl
 ## 🗂️ Files
 
 - `ZomatoData.csv` – Dataset file  
-- `zomato_analysis.R` – Main R script for the analysis  
+- `probproject.R` – Main R script for the analysis  
 - `/plots/` – (Optional) Folder to store generated visualizations  
 
 ---
