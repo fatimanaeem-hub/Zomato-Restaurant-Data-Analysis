@@ -1,0 +1,1002 @@
+Restaurant ID,Restaurant Name,City,lon,lat,Locality,Cuisines,Currency,Has Table booking,Has Online delivery,Price range,Votes,Average Cost for two,Rating
+6317637,Le Petit Souffle,Makati City,121.027535,14.565443,"Century City Mall, Poblacion, Makati City","French, Japanese, Desserts",Botswana Pula(P),Yes,No,,314,1100,4.8
+6304287,Izakaya Kikufuji,Makati City,121.014101,14.553708,"Little Tokyo, Legaspi Village, Makati City",Japanese,Botswana Pula(P),Yes,No,3,591,1200,4.5
+6300002,Heat - Edsa Shangri-La,Mandaluyong City,121.056831,14.581404,"Edsa Shangri-La, Ortigas, Mandaluyong City","Seafood, Asian, Filipino, Indian",Botswana Pula(P),Yes,No,4,270,4000,4.4
+6318506,Ooma,Mandaluyong City,121.056475,14.585318,"SM Megamall, Ortigas, Mandaluyong City","Japanese, Sushi",Botswana Pula(P),No,No,4,365,1500,4.9
+6314302,Sambo Kojin,Mandaluyong City,121.057508,14.58445,"SM Megamall, Ortigas, Mandaluyong City","Japanese, Korean",Botswana Pula(P),Yes,No,4,229,1500,4.8
+18189371,Din Tai Fung,Mandaluyong City,121.056314,14.583764,"SM Megamall, Ortigas, Mandaluyong City",Chinese,Botswana Pula(P),No,No,3,336,1000,4.4
+6300781,Buffet 101,Mandaluyong City,120.9796667,14.53133333,"SM by the Bay, Mall of Asia Complex, Pasay City","Asian, European",Botswana Pula(P),Yes,No,4,520,2000,4
+6301290,Vikings,Pasay City,120.9793333,14.54,"SM by the Bay, Mall of Asia Complex, Pasay City","Seafood, Filipino, Asian, European",Botswana Pula(P),Yes,No,4,677,2000,4.2
+6300010,Spiral - Sofitel Philippine Plaza Manila,Pasay City,120.98009,14.55299,"Sofitel Philippine Plaza Manila, Pasay City","European, Asian, Indian",Botswana Pula(P),Yes,No,4,621,6000,4.9
+6314987,Locavore,Pasig City,121.056532,14.572041,Kapitolyo,Filipino,Botswana Pula(P),Yes,No,3,532,1100,4.8
+6309903,Silantro Fil-Mex,Pasig City,121.057916,14.567689,Kapitolyo,"Filipino, Mexican",Botswana Pula(P),No,No,3,1070,800,4.9
+6309455,Mad Mark's Creamery & Good Eats,Pasig City,121.06082,14.570849,Kapitolyo,"American, Ice Cream, Desserts",Botswana Pula(P),Yes,No,3,488,900,4.2
+6318433,Silantro Fil-Mex,Quezon City,121.075419,14.649503,"UP Town Center, Diliman, Quezon City","Filipino, Mexican",Botswana Pula(P),No,No,3,294,800,4.8
+6310470,Guevarra's,San Juan City,121.0335917,14.59345,Addition Hills,Filipino,Botswana Pula(P),Yes,No,3,458,1000,4.2
+6314605,Sodam Korean Restaurant,San Juan City,121.03811,14.59889,Little Baguio,Korean,Botswana Pula(P),No,No,3,223,700,4.3
+18185059,Cafe Arabelle,Santa Rosa,121.05704,14.237082,"Nuvali, Don Jose, Santa Rosa","Cafe, American, Italian, Filipino",Botswana Pula(P),No,No,3,29,800,3.6
+18182702,Nonna's Pasta & Pizzeria,Santa Rosa,121.0565874,14.23767897,"Solenad 3, Don Jose, Santa Rosa","Italian, Pizza",Botswana Pula(P),No,No,3,72,850,4
+6318213,Balay Dako,Tagaytay City,120.951589,14.101834,Tagaytay City,Filipino,Botswana Pula(P),Yes,No,3,211,1200,4.5
+18255654,Hobing Korean Dessert Cafe,Taguig City,121.045878,14.55436,"BGC Stopover Pavillion, Bonifacio Global City","Cafe, Korean, Desserts",Botswana Pula(P),No,No,2,118,600,4.5
+6308205,Wildflour Cafe + Bakery,Taguig City,121.04622,14.549337,Bonifacio Global City,"Cafe, Bakery, American, Italian",Botswana Pula(P),Yes,No,4,392,1500,4.4
+6315438,NIU by Vikings,Taguig City,121.053725,14.545858,"SM Aura Premier, Bonifacio Global City, Taguig City","Seafood, American, Mediterranean, Japanese",Botswana Pula(P),Yes,No,4,535,3000,4.7
+6310406,The Food Hall by Todd English,Taguig City,121.0534998,14.54565535,"SM Aura Premier, Bonifacio Global City, Taguig City","American, Asian, Italian, Seafood",Botswana Pula(P),Yes,No,4,618,1800,4.5
+6600681,Chez Michou,BrasÌ_lia,-47.88178889,-15.76414167,Asa Norte,"Fast Food, French",Brazilian Real(R$),No,No,2,6,55,3
+6601005,CafÌ© Daniel Briand,BrasÌ_lia,-47.88266667,-15.7775,Asa Norte,Cafe,Brazilian Real(R$),No,No,1,9,30,3.8
+6600292,Casa do Biscoito Mineiro,BrasÌ_lia,-47.88213611,-15.75747222,Asa Norte,Bakery,Brazilian Real(R$),No,No,2,11,45,3.7
+6600441,Maori,BrasÌ_lia,-47.88816667,-15.75883333,Asa Norte,Brazilian,Brazilian Real(R$),No,No,3,11,60,3.8
+6600970,Pizza ÌÊ Bessa,BrasÌ_lia,-47.91566667,-15.83116667,Asa Sul,Pizza,Brazilian Real(R$),No,No,2,11,50,3.2
+6600379,Sushi Loko,BrasÌ_lia,-47.91566667,-15.831,Asa Sul,Japanese,Brazilian Real(R$),No,No,3,10,80,3.1
+6600214,Beirute,BrasÌ_lia,-47.9075,-15.82,Asa Sul,Arabian,Brazilian Real(R$),No,No,3,8,90,3.7
+6601218,New Koto,BrasÌ_lia,-47.91016667,-15.82733333,Asa Sul,Japanese,Brazilian Real(R$),No,No,4,5,200,3.7
+6600060,Sandubas CafÌ©,BrasÌ_lia,-47.89016667,-15.797,Asa Sul,"Brazilian, Cafe",Brazilian Real(R$),No,No,1,2,30,1
+6600083,Villa Tevere,BrasÌ_lia,-47.92366667,-15.83133333,Asa Sul,Italian,Brazilian Real(R$),No,No,4,12,150,4.1
+6601515,Rovereto,BrasÌ_lia,-48.019,-15.83716667,ÌÅguas Claras,Pizza,Brazilian Real(R$),No,No,4,9,100,3.1
+6601361,Buena Carne,BrasÌ_lia,-48.01909167,-15.839775,ÌÅguas Claras,"Bar Food, Brazilian",Brazilian Real(R$),No,No,3,9,60,3.6
+6601602,Taco Pep,BrasÌ_lia,-48.01666667,-15.83483333,ÌÅguas Claras,"Mexican, Grill",Brazilian Real(R$),No,No,4,29,100,4.3
+6601589,Coco Bambu,BrasÌ_lia,-47.889,-15.7865,"BrasÌ_lia Shopping, Asa Norte",International,Brazilian Real(R$),No,No,4,17,230,4.2
+6601862,TaypÌÁ,BrasÌ_lia,-47.872359,-15.860621,Lago Sul,"Peruvian, Latin American",Brazilian Real(R$),No,No,4,5,100,3.6
+6601595,Outback Steakhouse,BrasÌ_lia,-47.95628333,-15.83451389,"ParkShopping, GuarÌÁ I","American, Grill",Brazilian Real(R$),No,No,4,10,150,4
+6601158,ManzuÌÁ,BrasÌ_lia,-47.87283333,-15.82566667,"PontÌ£o Lago Sul, Lago Sul",Seafood,Brazilian Real(R$),No,No,4,6,240,3.2
+6600427,Coco Bambu,BrasÌ_lia,-47.8685,-15.819,Setor De Clubes Esportivos Sul,International,Brazilian Real(R$),No,No,4,30,230,4.9
+6600116,Gero,BrasÌ_lia,-47.885812,-15.720118,"Shopping Iguatemi, Lago Norte",Italian,Brazilian Real(R$),No,No,4,8,350,3.3
+6601457,Brazilian American Burgers,BrasÌ_lia,-47.92102778,-15.79753056,Sudoeste,"American, Burger",Brazilian Real(R$),No,No,2,9,50,3.6
+7303219,Pesqueiro Eco Gourmet,Rio de Janeiro,-43.377,-23.0115,Barra da Tijuca,"Seafood, Bar Food, Brazilian",Brazilian Real(R$),No,No,4,7,140,4
+7304307,Confeitaria Colombo,Rio de Janeiro,-43.178826,-22.905293,Centro,"Desserts, Cafe",Brazilian Real(R$),No,No,4,29,100,4.8
+7301215,Bibi,Rio de Janeiro,-43.18669167,-22.97207222,Copacabana,"Juices, Healthy Food",Brazilian Real(R$),No,No,3,24,60,4.7
+7300596,Cervantes,Rio de Janeiro,-43.17583333,-22.96216667,Copacabana,"Beverages, Bar Food, Fast Food",Brazilian Real(R$),No,No,3,29,90,4.5
+7300612,Amir,Rio de Janeiro,-43.176,-22.96516667,Copacabana,Lebanese,Brazilian Real(R$),No,No,4,11,170,4.2
+7300704,TT Burger,Rio de Janeiro,-43.191,-22.98683333,"Galeria River, Copacabana",Burger,Brazilian Real(R$),No,No,3,19,60,4.8
+7300955,Braseiro da GÌÁvea,Rio de Janeiro,-43.227042,-22.973507,GÌÁvea,"Brazilian, Bar Food",Brazilian Real(R$),No,No,4,40,100,4.9
+7300521,Balada Mix,Rio de Janeiro,-43.211425,-22.98520833,Ipanema,"Brazilian, Healthy Food, Juices, Pizza",Brazilian Real(R$),No,No,3,21,90,4.6
+7300515,Garota de Ipanema,Rio de Janeiro,-43.203,-22.98533333,Ipanema,"Brazilian, Bar Food",Brazilian Real(R$),No,No,4,49,120,4.9
+7300483,ZazÌÁ BistrÌ« Tropical,Rio de Janeiro,-43.20520833,-22.98531944,Ipanema,Brazilian,Brazilian Real(R$),No,No,4,21,170,4.6
+7301064,FilÌ© de Ouro,Rio de Janeiro,-43.219563,-22.966647,Lagoa,Brazilian,Brazilian Real(R$),No,No,3,14,90,4.3
+7304312,D.O.C Ristorante,Rio de Janeiro,-43.34879167,-22.99991111,"Le Monde, Barra da Tijuca",Italian,Brazilian Real(R$),No,No,4,5,150,4
+7300004,Sushi Leblon,Rio de Janeiro,-43.227,-22.98416667,Leblon,Japanese,Brazilian Real(R$),No,No,4,25,250,4.6
+7300868,Talho Capixaba,Rio de Janeiro,-43.22566667,-22.98516667,Leblon,"Bakery, Sandwich, Brazilian",Brazilian Real(R$),No,No,4,13,120,4.4
+7302637,Leme Light,Rio de Janeiro,-43.17279167,-22.963925,Leme,Brazilian,Brazilian Real(R$),No,No,2,7,40,4.2
+7302140,Shirley,Rio de Janeiro,-43.17126389,-22.96337222,Leme,"Brazilian, Seafood",Brazilian Real(R$),No,No,4,8,250,4.2
+7305048,Quiosque Chopp Brahma,Rio de Janeiro,-43.341164,-22.870413,Madureira,"Bar Food, Brazilian",Brazilian Real(R$),No,No,3,1,70,1
+7302898,AprazÌ_vel,Rio de Janeiro,-43.18736944,-22.92481389,Santa Teresa,Brazilian,Brazilian Real(R$),No,No,4,44,300,4.7
+7302859,Aconchego Carioca,Rio de Janeiro,-43.21551111,-22.91370833,Tijuca,"Brazilian, Bar Food",Brazilian Real(R$),No,No,3,24,85,4.6
+7301700,Garota de Ipanema,Rio de Janeiro,-43.16266667,-22.94783333,Urca,"Brazilian, Bar Food",Brazilian Real(R$),No,No,3,10,80,4.3
+6706313,Cantina Famiglia Mancini,SÌ£o Paulo,-46.64516667,-23.55066667,"Bela Vista, Centro","Italian, Pizza",Brazilian Real(R$),No,No,4,49,250,4.5
+6704326,Templo da Carne - Marcos Bassi,SÌ£o Paulo,-46.64633333,-23.559,"Bela Vista, Centro","Steak, BBQ",Brazilian Real(R$),No,No,4,17,250,4.4
+6711179,Gopala Hari,SÌ£o Paulo,-46.65866667,-23.55616667,ConsolaÌ_Ì£o,Indian,Brazilian Real(R$),No,No,3,5,70,3.1
+6702797,Jiquitaia,SÌ£o Paulo,-46.657523,-23.55671,ConsolaÌ_Ì£o,Brazilian,Brazilian Real(R$),No,No,4,15,100,4.1
+6700475,Skye - Hotel Unique,SÌ£o Paulo,-46.666851,-23.581688,"Hotel Unique, Jardim Paulista","Beverages, International",Brazilian Real(R$),No,No,4,59,300,4.8
+6713413,Les 3 Brasseurs,SÌ£o Paulo,-46.67511,-23.582135,Itaim Bibi,"French, Brazilian, Beverages",Brazilian Real(R$),No,No,4,30,120,4.6
+6714340,Red Steak & Burger,SÌ£o Paulo,-46.683888,-23.585324,Itaim Bibi,"Brazilian, Grill",Brazilian Real(R$),No,No,3,5,75,3.9
+6710645,Cantinho da Gula,SÌ£o Paulo,-46.67566667,-23.581,Itaim Bibi,Brazilian,Brazilian Real(R$),No,No,2,0,55,1
+6700402,Paris 6 Classique,SÌ£o Paulo,-46.666041,-23.561568,Jardim Paulista,French,Brazilian Real(R$),No,No,4,73,200,3.4
+6700846,Kawa Sushi,SÌ£o Paulo,-46.657418,-23.571638,Jardim Paulista,"Sushi, Japanese",Brazilian Real(R$),No,No,4,9,120,3.5
+6702159,A Figueira Rubaiyat,SÌ£o Paulo,-46.66983333,-23.5655,Jardim Paulista,"BBQ, Grill, Brazilian",Brazilian Real(R$),No,No,4,39,300,4.3
+6711666,Kinoshita,SÌ£o Paulo,-46.67133333,-23.59233333,Moema,Sushi,Brazilian Real(R$),No,No,4,12,230,3.9
+6701257,Meats,SÌ£o Paulo,-46.68133333,-23.56483333,Pinheiros,"Gourmet Fast Food, Burger",Brazilian Real(R$),No,No,4,68,120,4.3
+6706211,Paribar,SÌ£o Paulo,-46.64159444,-23.54664167,RepÌ_blica,"Brazilian, Italian",Brazilian Real(R$),No,No,4,46,150,4.3
+6705858,TerraÌ_o ItÌÁlia,SÌ£o Paulo,-46.643425,-23.545163,RepÌ_blica,Italian,Brazilian Real(R$),No,No,4,37,400,4.4
+6701419,Divino FogÌ£o,SÌ£o Paulo,-46.63716667,-23.5995,"Shopping MetrÌ« Santa Cruz, Vila Mariana","Brazilian, Mineira",Brazilian Real(R$),No,No,3,2,65,1
+6703956,Super Grill,SÌ£o Paulo,-46.698574,-23.622925,"Shopping Morumbi, Santo Amaro",Brazilian,Brazilian Real(R$),No,No,2,2,50,1
+6709580,Esquina MocotÌ_,SÌ£o Paulo,-46.581672,-23.486535,Vila Maria,"Brazilian, North Eastern",Brazilian Real(R$),No,No,4,22,100,4.4
+6703176,Veloso,SÌ£o Paulo,-46.63566667,-23.58516667,Vila Mariana,"Brazilian, Bar Food, Beverages",Brazilian Real(R$),No,No,3,58,70,4.6
+6713772,Sainte Marie Gastronomia,SÌ£o Paulo,-46.746958,-23.609207,Vila SÌ«nia,"Lebanese, Arabian",Brazilian Real(R$),No,No,4,11,120,4.1
+17284404,Austin's BBQ and Oyster Bar,Albany,-84.221535,31.610387,Albany,"BBQ, Burger, Seafood",Dollar($),No,No,2,35,25,3.3
+17284203,BJ's Country Buffet,Albany,-84.207095,31.608743,Albany,"American, BBQ",Dollar($),No,No,1,25,10,3.3
+17284105,Cookie Shoppe,Albany,-84.154,31.5772,Albany,American,Dollar($),No,No,1,34,0,3.4
+17284302,El Vaquero Mexican Restaurant,Albany,-84.2194,31.6158,Albany,Mexican,Dollar($),No,No,1,45,0,3.4
+17284397,Elements Coffee Co - Northwest,Albany,-84.206944,31.622412,Albany,"Coffee and Tea, Sandwich",Dollar($),No,No,1,26,10,3.4
+17284211,Pearly's Famous Country Cookng,Albany,-84.1759,31.5882,Albany,"Coffee and Tea, Sandwich",Dollar($),No,No,1,36,0,3.4
+17284094,Chick-fil-A,Albany,-84.2193,31.616,Albany,Fast Food,Dollar($),No,No,1,67,10,3.5
+17284409,Guang Zhou Chinese Restaurant,Albany,-84.2091458,31.6155186,Albany,"Asian, Chinese, Vegetarian",Dollar($),No,No,1,141,10,3.9
+17284139,Harvest Moon,Albany,-84.205718,31.604905,Albany,"Pizza, Bar Food, Sandwich",Dollar($),No,No,2,147,25,3.7
+17284403,Henry Campbell's Steakhouse,Albany,-84.223278,31.612121,Albany,"Steak, Tapas, Bar Food",Dollar($),No,No,4,51,70,3.5
+17284145,Hong Kong Cafe,Albany,-84.2191,31.6156,Albany,"Chinese, Seafood, Vegetarian",Dollar($),No,No,2,88,25,3.6
+17284150,House of China Restaurant II,Albany,-84.212,31.6104,Albany,Chinese,Dollar($),No,No,1,153,10,3.8
+17284158,Jimmie's Hot Dogs,Albany,-84.1534,31.5751,Albany,Chinese,Dollar($),No,No,1,160,10,3.9
+17284175,Locos Grill & Pub,Albany,-84.2228,31.6077,Albany,"American, Burger, Sandwich",Dollar($),No,No,2,57,25,3.5
+17284179,Longhorn Steakhouse,Albany,-84.2229,31.6185,Albany,"American, Steak",Dollar($),No,No,2,58,25,3.5
+17284197,Mikata Japanese Steakhouse,Albany,-84.2164,31.6137,Albany,"Japanese, Steak, Sushi",Dollar($),No,No,3,115,40,3.6
+17284241,Shogun Japanese Steak House,Albany,-84.2233,31.6118,Albany,"Japanese, Steak, Sushi",Dollar($),No,No,3,51,40,3.5
+17284390,The Catch Seafood Room & Oyster Bar,Albany,-84.205025,31.605882,Albany,"Seafood, Tapas, Bar Food",Dollar($),No,No,3,250,40,3.8
+17284279,Villa Gargano,Albany,-84.1757,31.5985,Albany,"Italian, Pizza",Dollar($),No,No,1,117,10,3.7
+17284364,3 Squares Diner,Albany,-83.8389,31.5308,Sylvester,"American, Breakfast, Diner",Dollar($),No,No,1,20,10,3.4
+16611114,Whitebull Hotel,Armidale,151.6688792,-30.5147169,Armidale,"Bar Food, Steak",Dollar($),No,No,2,25,20,3.5
+17293281,Last Resort Grill,Athens,-83.378273,33.957999,Athens,"American, Southern, Southwestern",Dollar($),No,No,3,1821,40,4.5
+17293301,Mama's Boy Restaurant,Athens,-83.3654,33.9535,Athens,Southern,Dollar($),No,No,1,849,10,4.5
+17293409,Sr. Sol 1,Athens,-83.4293,33.9652,Athens,Mexican,Dollar($),No,No,1,917,10,4.6
+17293163,Choo Choo Eastside,Athens,-83.3389,33.9259,Athens,"Japanese, Korean",Dollar($),No,No,1,439,10,3.9
+17293228,The Grill,Athens,-83.375523,33.958198,Athens,"Breakfast, Burger, Sandwich",Dollar($),No,No,1,289,10,3.7
+17293880,Big City Bread Cafe,Athens,-83.384004,33.959392,Athens,"Breakfast, Sandwich",Dollar($),No,No,1,558,10,4.3
+17293169,Clocked,Athens,-83.3797,33.9584,Athens,"American, Burger, Sandwich",Dollar($),No,No,1,613,10,4.2
+17293186,DePalma's Italian Cafe - Downtown,Athens,-83.373596,33.958112,Athens,"American, Italian, Pizza",Dollar($),No,No,2,353,25,4
+17293180,DePalma's Italian Cafe - East Side,Athens,-83.33995,33.924275,Athens,"American, Italian, Pizza",Dollar($),No,No,2,387,25,4.1
+17293205,Five & Ten,Athens,-83.3872482,33.9415545,Athens,American,Dollar($),No,No,3,755,40,4.3
+17293229,Grit,Athens,-83.381625,33.960112,Athens,"International, Southern, Vegetarian",Dollar($),No,No,1,800,10,4.2
+17293897,Ike & Jane,Athens,-83.400887,33.963296,Athens,Sandwich,Dollar($),No,No,1,350,10,4.1
+17293273,La Dolce Vita Ristorante,Athens,-83.4075,33.9584,Athens,Italian,Dollar($),No,No,3,464,40,4.1
+17293870,Shokitini,Athens,-83.379251,33.957503,Athens,"Asian, Japanese, Sushi",Dollar($),No,No,2,550,25,4.2
+17293877,Taqueria Del Sol,Athens,-83.383605,33.960571,Athens,"Mexican, Spanish",Dollar($),No,No,1,543,10,4.1
+17293890,The National,Athens,-83.37967,33.959468,Athens,"International, Southern",Dollar($),No,No,3,465,40,4.1
+17293915,The Royal Peasant,Athens,-83.38728,33.937502,Athens,Bar Food,Dollar($),No,No,1,546,10,4.4
+17293422,Transmetropolitan,Athens,-83.3764,33.9584,Athens,"Italian, Pizza, Sandwich",Dollar($),No,No,1,1098,10,4.4
+17293873,Trappeze Pub,Athens,-83.378881,33.958363,Athens,"Burger, Bar Food",Dollar($),No,No,2,579,25,4.2
+17294014,Viva! Argentine Cuisine,Athens,-83.3828224,33.9600227,Athens,"Desserts, Latin American, Argentine",Dollar($),No,No,1,374,10,4.1
+17294556,Miyabi Kyoto Japanese Steak House,Augusta,-82.0865,33.4721,Augusta,"Chinese, Steak",Dollar($),No,No,3,717,40,4.6
+17294607,Rae's Coastal Cafe,Augusta,-82.0698,33.4791,Augusta,"American, Caribbean, Seafood",Dollar($),No,No,3,548,40,4.9
+17294279,The Bee's Knees,Augusta,-81.97,33.4765,Augusta,"International, Tapas, Vegetarian",Dollar($),No,No,2,631,25,4.5
+17294300,Boll Weevil Cafe,Augusta,-81.9684,33.474,Augusta,"Desserts, Sandwich, Southern",Dollar($),No,No,1,372,10,3.9
+17295215,Farmhaus Burger,Augusta,-81.973006,33.477444,Augusta,"American, Burger",Dollar($),No,No,2,201,25,3.9
+17295028,Manuel's Bread Cafe,Augusta,-81.965571,33.481779,Augusta,"Breakfast, French",Dollar($),No,No,3,332,40,3.8
+17294642,Sconyers Bar B Que,Augusta,-82.0327,33.4086,Augusta,BBQ,Dollar($),No,No,2,304,25,3.5
+17295109,Frog Hollow Tavern,Augusta,-81.974944,33.478231,Augusta,American,Dollar($),No,No,3,368,40,4.3
+17294441,Giuseppe's Pizza & Italian Specialities,Augusta,-82.096,33.4827,Augusta,"Desserts, Italian, Pizza",Dollar($),No,No,2,430,25,4.1
+17294552,Mellow Mushroom,Augusta,-81.9721,33.4778,Augusta,"Italian, Pizza, Sandwich",Dollar($),No,No,2,433,25,4.4
+17294565,Nacho Mamas Burritos,Augusta,-81.9694,33.4764,Augusta,Mexican,Dollar($),No,No,1,380,10,4
+17294623,Rhinehart's Oyster Bar,Augusta,-82.0505,33.5133,Augusta,"Bar Food, Sandwich, Seafood",Dollar($),No,No,2,456,25,4
+17294712,Takosushi,Augusta,-82.0301,33.4848,Augusta,"Mexican, Southwestern, Sushi",Dollar($),No,No,3,647,40,4.2
+17295033,The Chop House,Augusta,-82.080788,33.467201,Augusta,Steak,Dollar($),No,No,3,360,40,4
+17295069,The Taj of India,Augusta,-82.0805493,33.5375868,Augusta,Indian,Dollar($),No,No,2,227,25,4
+17294261,Augsburg Haus,Augusta,-82.143793,33.544342,Evans,German,Dollar($),No,No,2,290,25,3.9
+17295115,Pho Bac,Augusta,-82.126161,33.532249,Evans,Vietnamese,Dollar($),No,No,1,270,10,4.1
+17294836,Rhinehart's Oyster Bar,Augusta,-82.141284,33.521291,Evans,"Burger, Seafood",Dollar($),No,No,2,326,25,4
+17294850,Thai Kitchen,Augusta,-82.1328,33.5406,Evans,Thai,Dollar($),No,No,3,317,35,4.3
+17294883,El Kiosco Mexican Restaurant,Augusta,-82.1997,33.4574,Grovetown,Mexican,Dollar($),No,No,1,300,10,4.2
+16608864,Taste of Balingup,Balingup,115.9844924,-33.7845269,Balingup,Modern Australian,Dollar($),No,No,2,21,20,3.2
+16604911,Bridge Road Brewers,Beechworth,146.685852,-36.360439,Beechworth,"Pizza, Bar Food",Dollar($),No,No,2,237,20,4.6
+17303465,Bardenay,Boise,-116.2019,43.6138,Boise,"American, Bar Food",Dollar($),No,No,2,879,25,4.5
+17303642,Flatbread Neapolitan Pizzeria,Boise,-116.203466,43.616068,Boise,"Italian, Pizza",Dollar($),No,No,2,615,25,4.6
+17303670,Goldy's Breakfast Bistro,Boise,-116.2023,43.6149,Boise,"Breakfast, Sandwich",Dollar($),No,No,2,879,25,4.5
+17303545,Chandlers Steakhouse,Boise,-116.2064,43.6157,Boise,"American, Seafood, Steak",Dollar($),No,No,4,379,70,3.9
+17303655,Bar Gernika Basque Pub & Eatery,Boise,-116.2031,43.614,Boise,"European, Spanish",Dollar($),No,No,1,303,10,4.3
+17304691,Barbacoa Restaurant,Boise,-116.185034,43.597235,Boise,"Latin American, Steak",Dollar($),No,No,4,538,70,4.1
+17303478,Big Jud's,Boise,-116.2062,43.5945,Boise,"American, Burger, Sandwich",Dollar($),No,No,1,334,10,4.2
+17303480,Bittercreek Ale House,Boise,-116.2022,43.6167,Boise,"American, Bar Food",Dollar($),No,No,2,555,25,4.3
+17304733,Boise Fry Company,Boise,-116.193409,43.610279,Boise,"American, Burger",Dollar($),No,No,1,823,10,4.4
+17303646,Flying Pie Pizzaria,Boise,-116.2625,43.6192,Boise,Pizza,Dollar($),No,No,2,550,25,4.1
+17304929,Fork,Boise,-116.202845,43.616295,Boise,"American, Burger",Dollar($),No,No,2,650,25,4.4
+17303684,Guido's Original New York Style Pizza,Boise,-116.199,43.615,Boise,Pizza,Dollar($),No,No,1,410,10,4.3
+17303772,Los Beto's,Boise,-116.2463,43.6191,Boise,Mexican,Dollar($),No,No,1,660,10,4.4
+17305123,Lucianos Italian Restaurant,Boise,-116.245165,43.6051379,Boise,"Italian, Seafood, Vegetarian",Dollar($),No,No,2,360,25,4.4
+17303787,Mai Thai Restaurant,Boise,-116.2021,43.6162,Boise,"Sushi, Thai",Dollar($),No,No,3,340,40,4
+17303990,Shige Japanese Cuisine,Boise,-116.2031,43.6156,Boise,"Japanese, Sushi, Teriyaki",Dollar($),No,No,2,393,25,4.1
+17304741,The Egg Factory,Boise,-116.281809,43.619274,Boise,Breakfast,Dollar($),No,No,1,422,10,4.3
+17304726,Tucanos,Boise,-116.280614,43.591706,Boise,Brazilian,Dollar($),No,No,3,435,40,4
+17304486,Texas Roadhouse,Boise,-116.347304,43.619108,Meridian,"American, BBQ, Steak",Dollar($),No,No,2,369,25,4
+17304533,Brick 29,Boise,-116.5629,43.5777,Nampa,American,Dollar($),No,No,3,487,40,4.4
+17316233,Winifreds,Cedar Rapids/Iowa City,-91.6336,42.0179,Cedar Rapids,"American, Mediterranean, Seafood",Dollar($),No,No,3,98,40,3.7
+17315883,Biaggi's Ristorante Italiano,Cedar Rapids/Iowa City,-91.6327,42.0281,Cedar Rapids,"Italian, Pizza",Dollar($),No,No,3,365,40,4.1
+17315995,El Super Burrito,Cedar Rapids/Iowa City,-91.7148,41.9748,Cedar Rapids,Mexican,Dollar($),No,No,1,190,10,4.1
+17316018,Granite City Food & Brewery,Cedar Rapids/Iowa City,-91.6224,42.0249,Cedar Rapids,"American, Breakfast, Burger",Dollar($),No,No,3,429,40,4.1
+17316038,Irish Democrat,Cedar Rapids/Iowa City,-91.6347,42.01,Cedar Rapids,"American, BBQ, Burger",Dollar($),No,No,2,430,25,4.4
+17316771,Taste of India,Cedar Rapids/Iowa City,-91.6499622,42.0215347,Cedar Rapids,Indian,Dollar($),No,No,2,186,25,4.2
+17316201,Thai Moon Restaurant,Cedar Rapids/Iowa City,-91.7266,41.9639,Cedar Rapids,"Chinese, Sushi, Thai",Dollar($),No,No,1,220,10,4.2
+17316208,Ting's Red Lantern,Cedar Rapids/Iowa City,-91.6394,42.0468,Cedar Rapids,Chinese,Dollar($),No,No,1,347,10,4.2
+17316389,Monica's,Cedar Rapids/Iowa City,-91.569767,41.670466,Coralville,"American, Italian, Pizza",Dollar($),No,No,2,161,25,3.8
+17316278,Exotic India,Cedar Rapids/Iowa City,-91.5687,41.6685,Coralville,Indian,Dollar($),No,No,2,160,25,4.1
+17316744,Shorts Burger and Shine,Cedar Rapids/Iowa City,-91.534424,41.660982,Iowa City,Burger,Dollar($),No,No,1,820,10,4.9
+17316751,The Hamburg Inn No. 2 Inc.,Cedar Rapids/Iowa City,-91.531414,41.663849,Iowa City,"American, Breakfast, Burger",Dollar($),No,No,1,488,10,4.5
+17316766,Bluebird Diner,Cedar Rapids/Iowa City,-91.531093,41.663751,Iowa City,"Breakfast, Diner",Dollar($),No,No,2,253,25,3.6
+17316743,Graze,Cedar Rapids/Iowa City,-91.534302,41.658691,Iowa City,"American, International, Sushi",Dollar($),No,No,3,220,40,3.8
+17316374,A & A Pagliai's Pizza,Cedar Rapids/Iowa City,-91.5314,41.6648,Iowa City,Pizza,Dollar($),No,No,2,485,25,4.3
+17316381,Atlas World Grill,Cedar Rapids/Iowa City,-91.5341,41.661,Iowa City,International,Dollar($),No,No,3,428,40,4.3
+17316802,BlackStone,Cedar Rapids/Iowa City,-91.482165,41.667742,Iowa City,"American, Breakfast",Dollar($),No,No,2,294,25,4.1
+17316416,Devotay,Cedar Rapids/Iowa City,-91.5318,41.6625,Iowa City,"Mediterranean, Tapas, Vegetarian",Dollar($),No,No,3,380,40,4
+17316449,Jimmy Jack's Rib Shack,Cedar Rapids/Iowa City,-91.5074,41.6428,Iowa City,BBQ,Dollar($),No,No,2,259,25,4.2
+17316603,Zoeys Pizzeria,Cedar Rapids/Iowa City,-91.5995,42.0331,Marion,"Pizza, Sandwich",Dollar($),No,No,2,433,25,4.7
+16659169,Tokyo Sushi,Chatham-Kent,-82.188438,42.397683,Chatham-Kent,"Japanese, Sushi",Dollar($),No,No,2,176,25,3.7
+17558684,Berry Patch Restaurant,Clatskanie,-123.368151,46.126967,Clatskanie,"American, Breakfast, Desserts",Dollar($),No,No,1,96,10,4.3
+18366580,Sakura Sushi & Grill,Cochrane,-114.472474,51.183934,Cochrane,"Asian, Japanese",Dollar($),No,No,2,6,25,3.1
+17330755,Uptown Vietnam cuisine,Columbus,-84.992671,32.470315,Columbus,"Asian, Vietnamese",Dollar($),No,No,1,33,10,3.3
+17330611,Cafe Le Rue @ The Landings,Columbus,-84.95591,32.519247,Columbus,"American, Seafood, Cajun",Dollar($),No,No,2,489,25,4.6
+17330609,Mark's City Grille,Columbus,-84.927047,32.555591,Columbus,American,Dollar($),No,No,2,345,25,4.5
+17330024,B Merrell's,Columbus,-84.9436,32.5577,Columbus,"Burger, Bar Food, Southern",Dollar($),No,No,2,149,25,3.8
+17330074,Cannon Brewpub,Columbus,-84.9936,32.4656,Columbus,"Pizza, Bar Food",Dollar($),No,No,2,330,25,3.9
+17330185,Fuji Japanese Steak House,Columbus,-84.954984,32.5382197,Columbus,"Japanese, Steak",Dollar($),No,No,3,247,40,3.9
+17330397,Ruth Ann's Family Restaurant,Columbus,-84.9876,32.4637,Columbus,"Breakfast, Diner, Southern",Dollar($),No,No,1,123,10,3.7
+17330735,Samurai Japanese Cuisine & Sushi Bar,Columbus,-84.9933631,32.4652417,Columbus,"Japanese, Steak, Sushi",Dollar($),No,No,3,109,40,3.6
+17330676,Wasabi Sushi and Thai,Columbus,-84.96661,32.534002,Columbus,"Japanese, Sushi, Thai",Dollar($),No,No,3,134,40,3.7
+17330048,Buckhead Bar and Grill,Columbus,-84.95367,32.513154,Columbus,"Seafood, Steak, Vegetarian",Dollar($),No,No,3,722,40,4.2
+17330604,Burt's Butcher Shoppe and Eatery,Columbus,-84.947569,32.504657,Columbus,Steak,Dollar($),No,No,2,213,25,4.3
+17330087,Chef Lee's Peking Restaurant,Columbus,-84.9607,32.5393,Columbus,Chinese,Dollar($),No,No,2,335,25,4
+17330137,Country's Barbecue,Columbus,-84.9464,32.4792,Columbus,"BBQ, Southern",Dollar($),No,No,2,353,25,4
+17330155,Deorio's,Columbus,-84.9427,32.481,Columbus,"Italian, Pizza",Dollar($),No,No,1,170,0,4
+17330309,Mellow Mushroom,Columbus,-84.9557,32.5321,Columbus,Pizza,Dollar($),No,No,2,192,25,4.1
+17330311,Meritage,Columbus,-84.992093,32.466158,Columbus,"American, Tapas",Dollar($),No,No,3,302,40,4.1
+17330615,Mongo The Mongolian Fire Pit,Columbus,-84.938698,32.560905,Columbus,"Asian, Chinese",Dollar($),No,No,1,355,10,4.2
+17330638,The Black Cow,Columbus,-84.991384,32.468757,Columbus,American,Dollar($),No,No,2,287,25,4.3
+17330628,Wood Stone,Columbus,-84.963201,32.527217,Columbus,"Italian, Mediterranean, Pizza",Dollar($),No,No,3,264,40,4
+17330546,Hunter's Pub,Columbus,-85.0213,32.7455,Hamilton,"American, Seafood, Steak",Dollar($),No,No,3,235,40,4.4
+16643459,Consort Restaurant,Consort,-110.7746994,52.0082889,Consort,"Chinese, Canadian",Dollar($),No,No,2,6,25,3
+17334434,Thatcher's Barbeque and Grill,Dalton,-84.9396931,34.5251331,Calhoun,"American, BBQ, Southern",Dollar($),No,No,2,38,25,3.7
+17334348,Christian and Jake's Bistro,Dalton,-84.926258,34.474635,Calhoun,"Desserts, Sandwich",Dollar($),No,No,1,122,10,4.4
+17334213,Dub's High on the Hog,Dalton,-84.9523921,34.4972488,Calhoun,BBQ,Dollar($),No,No,2,207,25,4.4
+17334355,Sierra's Mexican Restaurant,Dalton,-84.767911,34.752476,Chatsworth,"Mexican, Tex-Mex",Dollar($),No,No,1,66,10,3.9
+17334212,Oakwood Cafe,Dalton,-84.969393,34.769686,Dalton,"BBQ, Breakfast, Southern",Dollar($),No,No,1,249,10,4.9
+17333797,Chili's Grill & Bar,Dalton,-85.0039,34.7643,Dalton,American,Dollar($),No,No,2,63,25,3.8
+17334217,Fuji Japanese Steakhouse,Dalton,-84.992342,34.759551,Dalton,"Japanese, Sushi",Dollar($),No,No,3,145,40,3.8
+17334273,Las Palmas,Dalton,-84.992924,34.759665,Dalton,Mexican,Dollar($),No,No,1,83,10,3.8
+17334254,Tony's Italian Restaurant & Pizza,Dalton,-84.999678,34.758645,Dalton,Italian,Dollar($),No,No,2,116,25,3.7
+17333836,Filling Station,Dalton,-84.9678,34.7742,Dalton,"American, Burger",Dollar($),No,No,1,122,10,4.1
+17334197,Five Guys Burgers and Fries,Dalton,-84.990925,34.759273,Dalton,Fast Food,Dollar($),No,No,1,142,10,4.1
+17333882,Los Pablos,Dalton,-84.9964,34.7604,Dalton,Mexican,Dollar($),No,No,1,114,10,4.1
+17334211,Kobe Hibachi & Sushi,Dalton,-85.2229101,34.9428786,Fort Oglethorpe,"American, Japanese, Sushi",Dollar($),No,No,2,214,25,4.6
+17334390,Soho Hibachi,Dalton,-85.246237,34.9528157,Fort Oglethorpe,Japanese,Dollar($),No,No,1,116,10,4.3
+17334034,Thai Garden,Dalton,-85.2545,34.9546,Fort Oglethorpe,Thai,Dollar($),No,No,2,111,25,4.2
+17334414,Southern Bliss Bakery,Dalton,-85.294955,34.705093,LaFayette,"Desserts, Sandwich",Dollar($),No,No,1,25,10,3.7
+17334082,Bailey's Bar-B-Que,Dalton,-85.1321,34.9273,Ringgold,BBQ,Dollar($),No,No,1,128,10,4.1
+17334364,Farm To Fork,Dalton,-85.130492,34.912109,Ringgold,"American, Diner, Southern",Dollar($),No,No,1,244,10,4.3
+17334398,Home Plate Grill,Dalton,-85.1079396,34.9151853,Ringgold,"American, BBQ, Southern",Dollar($),No,No,1,112,10,4.2
+17334219,Pie Slingers Pizzeria,Dalton,-85.249727,34.851907,Rock Spring,"Italian, Pizza",Dollar($),No,No,1,144,10,4.1
+17335173,Olive Tree Cafe,Davenport,-90.496986,41.574935,Bettendorf,"Indian, Mediterranean, Middle Eastern",Dollar($),No,No,2,166,25,4.6
+17335195,"Red Ginger Sushi, Grill & Bar",Davenport,-90.522479,41.53845,Bettendorf,"Sushi, Teriyaki",Dollar($),No,No,3,208,40,4.5
+17335225,Crust Stone Oven Pizza,Davenport,-90.4912446,41.5747801,Bettendorf,"Burger, Pizza",Dollar($),No,No,2,136,25,3.9
+17335219,Jimmy's Pancake House,Davenport,-90.504176,41.548746,Bettendorf,"American, Breakfast, Greek",Dollar($),No,No,1,85,10,4
+17334965,Trattoria Tiramisu,Davenport,-90.50709,41.525384,Bettendorf,Italian,Dollar($),No,No,2,117,25,4.1
+17335189,Prairie Grille at SteepleGate Inn,Davenport,-90.574088,41.593892,Davenport,"American, Breakfast",Dollar($),No,No,2,53,25,3.4
+17335156,Tantra Asian Bistro,Davenport,-90.565837,41.574459,Davenport,Asian,Dollar($),No,No,2,474,25,4.9
+17334717,Chick-fil-A,Davenport,-90.5716,41.5604,Davenport,Fast Food,Dollar($),No,No,1,125,10,3.9
+17334752,Duck City Bistro,Davenport,-90.5737,41.5223,Davenport,"American, French",Dollar($),No,No,4,201,70,3.7
+18453427,Frick's Tap,Davenport,-90.59466452,41.52253634,Davenport,"American, Bar Food, BBQ",Dollar($),No,No,2,2,25,1
+17793744,Los Agaves,Davenport,-90.5154313,41.5709434,Davenport,Mexican,Dollar($),No,No,2,3,25,1
+17334679,Azteca,Davenport,-90.5683,41.5699,Davenport,Mexican,Dollar($),No,No,1,167,0,4.3
+17334718,China Cafe,Davenport,-90.5321,41.5749,Davenport,Chinese,Dollar($),No,No,2,112,25,4
+17334763,Exotic Thai Restaurant,Davenport,-90.5432,41.5747,Davenport,Thai,Dollar($),No,No,2,256,25,4.1
+17335158,Front Street Brewery,Davenport,-90.572418,41.520389,Davenport,American,Dollar($),No,No,1,123,10,4.3
+17334782,Granite City Food & Brewery,Davenport,-90.5137,41.5745,Davenport,American,Dollar($),No,No,2,199,25,4
+17334846,Los Agaves,Davenport,-90.5686,41.559,Davenport,Mexican,Dollar($),No,No,2,157,25,4.1
+17334853,Machine Shed Restaurant,Davenport,-90.6136,41.5944,Davenport,American,Dollar($),No,No,2,100,25,4.1
+17335168,Osaka,Davenport,-90.515175,41.570997,Davenport,"Japanese, Sushi",Dollar($),No,No,3,141,40,4.2
+17334958,Texas Roadhouse,Davenport,-90.517,41.5747,Davenport,"American, BBQ, Steak",Dollar($),No,No,2,197,25,4.2
+17258496,Hickory Park,Des Moines,-93.610084,42.010254,Ames,"BBQ, Burger, Desserts",Dollar($),No,No,2,1025,25,4.5
+17259395,The Cafe,Des Moines,-93.643094,42.048779,Ames,"American, Coffee and Tea",Dollar($),No,No,2,570,25,4.9
+17258350,Flying Mango,Des Moines,-93.677638,41.614965,Beaverdale,"BBQ, Caribbean, Cajun",Dollar($),No,No,3,674,40,4.5
+17258136,Cool Basil,Des Moines,-93.739573,41.600564,Clive,"Asian, Sushi, Thai",Dollar($),No,No,2,496,25,4.1
+17258522,HuHot Mongolian Grill,Des Moines,-93.760027,41.60028,Clive,"Asian, Chinese",Dollar($),No,No,2,411,25,4
+17259958,Malo,Des Moines,-93.627896,41.583309,Downtown,"Latin American, Mexican",Dollar($),No,No,2,113,25,3.2
+17258036,Centro,Des Moines,-93.6300803,41.5857431,Downtown,"Italian, Pizza",Dollar($),No,No,3,1109,40,4.5
+17259368,Fong's Pizza,Des Moines,-93.621631,41.585465,Downtown,"Chinese, Pizza",Dollar($),No,No,2,728,25,4.6
+17257684,A Dong Restaurant,Des Moines,-93.637401,41.587219,Downtown,"Asian, Vegetarian, Vietnamese, Bubble Tea",Dollar($),No,No,1,659,10,4.4
+17258154,Court Avenue Brewing Company,Des Moines,-93.620726,41.58536,Downtown,"American, Pizza, Bar Food",Dollar($),No,No,3,370,40,4.2
+17259340,Django,Des Moines,-93.629436,41.584027,Downtown,French,Dollar($),No,No,3,532,40,4.3
+17259243,Miyabi 9,Des Moines,-93.611366,41.590819,East Village,"Japanese, Sushi",Dollar($),No,No,2,860,25,4.8
+17259625,Zombie Burger + Drink Lab,Des Moines,-93.61474,41.590106,East Village,"Burger, Desserts, Vegetarian",Dollar($),No,No,1,943,10,4.2
+17259169,Tursi's Latin King,Des Moines,-93.577383,41.601415,Fairground,"American, Italian",Dollar($),No,No,4,476,70,4.1
+17259166,Tsing Tsao South,Des Moines,-93.645245,41.545869,Greater South Side,Chinese,Dollar($),No,No,1,218,10,4.1
+17259335,Bandit Burrito,Des Moines,-93.6976773,41.6714654,Johnston,"Breakfast, Mexican, Southwestern",Dollar($),No,No,1,214,10,4
+17259248,Jethro's BBQ,Des Moines,-93.659797,41.603901,Kingman Place Historic District,"American, BBQ",Dollar($),No,No,2,699,25,4.3
+17258552,The Machine Shed Restaurant,Des Moines,-93.772033,41.615083,Urbandale,"American, Breakfast",Dollar($),No,No,2,308,25,3.8
+17259550,Mi Patria,Des Moines,-93.73624,41.594039,West Des Moines,Latin American,Dollar($),No,No,2,157,25,4
+17259200,Waterfront Seafood Market,Des Moines,-93.7441981,41.5991771,West Des Moines,"Seafood, Sushi",Dollar($),No,No,3,530,40,4.2
+16615894,The Giggling Goat,Dicky Beach,153.137401,-26.783576,Dicky Beach,"Coffee and Tea, Tea, Modern Australian",Dollar($),No,No,1,29,7,3.6
+17342816,Burnt Toast Cafe,Dubuque,-90.667668,42.504759,Dubuque,Breakfast,Dollar($),No,No,1,33,10,3.4
+17342498,Catfish Charlie's,Dubuque,-90.6499328,42.5124724,Dubuque,Seafood,Dollar($),No,No,2,40,25,3.3
+17342648,Salsa's Mexican Restaurant,Dubuque,-90.6684746,42.5032004,Dubuque,Mexican,Dollar($),No,No,1,153,10,3.4
+17342781,Tony Roma's,Dubuque,-90.658609,42.496464,Dubuque,"American, BBQ, Seafood",Dollar($),No,No,2,65,25,3.3
+17342799,Vinny Vanucchi's,Dubuque,-90.664029,42.495689,Dubuque,Italian,Dollar($),No,No,2,58,25,3.4
+17342772,Champps Americana,Dubuque,-90.715247,42.492018,Dubuque,"American, Burger, Sandwich",Dollar($),No,No,2,100,25,3.5
+17342771,Fiesta Cancun,Dubuque,-90.740213,42.49092,Dubuque,Mexican,Dollar($),No,No,1,156,10,3.6
+17342548,Happy Joe's Pizza & Ice Cream,Dubuque,-90.7264,42.4955,Dubuque,"Desserts, Pizza, Ice Cream",Dollar($),No,No,1,74,0,3.5
+17342556,Houlihan's,Dubuque,-90.645294,42.516621,Dubuque,"American, Burger",Dollar($),No,No,2,117,25,3.6
+17342811,Ichiban Hibachi Steakhouse & Sushi Bar,Dubuque,-90.712084,42.492963,Dubuque,"Japanese, Steak, Sushi",Dollar($),No,No,3,83,40,3.7
+17342576,Kalmes Breaktime Bar & Grill,Dubuque,-90.6646,42.5043,Dubuque,"American, Burger",Dollar($),No,No,2,48,25,3.6
+17342770,L. May Eatery,Dubuque,-90.668164,42.503075,Dubuque,"International, Pizza",Dollar($),No,No,3,198,40,3.8
+17342585,Los Aztecas,Dubuque,-90.7055,42.4916,Dubuque,Mexican,Dollar($),No,No,1,126,10,3.5
+17342494,Manna Java World Cafe,Dubuque,-90.6677349,42.500191,Dubuque,"Breakfast, Pizza",Dollar($),No,No,1,119,10,3.5
+17342594,Mario's Italian Restaurant,Dubuque,-90.6691,42.5048,Dubuque,"American, Italian",Dollar($),No,No,2,140,25,3.6
+17342625,Pepper Sprout Incorporated,Dubuque,-90.6651,42.4974,Dubuque,American,Dollar($),No,No,3,159,40,3.6
+17342652,Shot Tower Inn,Dubuque,-90.6658,42.4963,Dubuque,"Italian, Pizza",Dollar($),No,No,2,131,25,3.6
+17342665,Sunshine Family Restaurant,Dubuque,-90.663686,42.4982789,Dubuque,"American, Breakfast, Burger",Dollar($),No,No,1,60,10,3.5
+17342810,Watershed Cafe,Dubuque,-90.684882,42.527556,Dubuque,"American, Burger, Pizza, Cafe",Dollar($),No,No,2,89,25,3.7
+17342775,Woodfire Grille,Dubuque,-90.658988,42.496378,Dubuque,"American, Seafood, Steak",Dollar($),No,No,4,72,70,3.6
+16612028,The Belle General,East Ballina,153.593331,-28.862663,East Ballina,Cafe,Dollar($),No,No,2,56,20,4.1
+17536645,Jehova es Mi Pastor Tacos y Burritos,Fernley,-119.252694,39.607515,Fernley,Mexican,Dollar($),No,No,1,83,10,3.7
+16613507,Flaxton Gardens,Flaxton,152.8771473,-26.6521332,Flaxton,"Tea, Modern Australian",Dollar($),No,No,3,37,30,3.5
+16607969,Bespoke Harvest,Forrest,143.714315,-38.517292,Forrest,"Cafe, Australian",Dollar($),No,No,2,29,20,3.7
+17374405,Houndstooth Grill & Tavern,Gainesville,-83.8461,34.0901,Braselton,"American, Sandwich, Seafood",Dollar($),No,No,2,239,25,4.4
+17375060,Hawg Wild BBQ & Catfish House,Gainesville,-83.520693,34.61802,Clarkesville,"BBQ, Burger, Seafood",Dollar($),No,No,1,235,10,4.1
+17375164,Bourbon Street Grille,Gainesville,-83.985353,34.532973,Dahlonega,"American, Burger, Cajun",Dollar($),No,No,2,88,25,3.8
+17374552,Corkscrew Cafe,Gainesville,-83.9858,34.5318,Dahlonega,,Dollar($),No,No,3,209,40,3.9
+17375078,Smokin Gold BBQ,Gainesville,-83.983939,34.533626,Dahlonega,BBQ,Dollar($),No,No,1,133,10,3.9
+17375049,Hoka-Hoka Japanese Steak & Sushi,Gainesville,-83.989317,34.541044,Dahlonega,"Chinese, Japanese, Thai",Dollar($),No,No,1,267,10,4.4
+17375077,Shenanigan's Irish Pub,Gainesville,-83.986119,34.533198,Dahlonega,"Bar Food, Seafood, Vegetarian",Dollar($),No,No,2,171,25,4.1
+17375141,Fish Tales Lakeside Grille,Gainesville,-83.938024,34.183573,Flowery Branch,Seafood,Dollar($),No,No,2,107,25,3.8
+17375198,Antebellum,Gainesville,-83.926217,34.185707,Flowery Branch,"American, Southern",Dollar($),No,No,3,164,40,4.3
+17375180,Moonie's Texas Barbecue,Gainesville,-83.927794,34.180043,Flowery Branch,"BBQ, Sandwich",Dollar($),No,No,1,182,10,4.1
+17375072,Atlanta Highway Seafood Market,Gainesville,-83.838457,34.285102,Gainesville,"Sandwich, Seafood, Cajun",Dollar($),No,No,2,681,25,4.9
+17375047,Eat at Thai,Gainesville,-83.857993,34.300182,Gainesville,Thai,Dollar($),No,No,1,357,10,4.6
+17375074,Smoke House BBQ and Catering,Gainesville,-83.860098,34.222755,Gainesville,BBQ,Dollar($),No,No,2,89,25,3.8
+17374921,2 Dog,Gainesville,-83.824023,34.300567,Gainesville,"American, European, Sandwich",Dollar($),No,No,2,350,25,4.2
+17374819,Longstreet Cafe,Gainesville,-83.8272,34.3166,Gainesville,Southern,Dollar($),No,No,1,298,10,4.3
+17375089,Re-Cess,Gainesville,-83.82686,34.300332,Gainesville,"American, Southern",Dollar($),No,No,2,319,25,4.2
+17375214,Bodensee,Gainesville,-83.727741,34.701594,Helen,German,Dollar($),No,No,3,114,40,3.8
+17374951,Hofer's Bakery & Cafe,Gainesville,-83.7345,34.7024,Helen,"German, Ice Cream",Dollar($),No,No,1,136,10,3.9
+17374978,Troll Tavern,Gainesville,-83.7334,34.7021,Helen,"Burger, German, Sandwich",Dollar($),No,No,2,108,25,2.2
+17375104,The Nacoochee Village Tavern & Pizzeria,Gainesville,-83.713498,34.691208,Helen,"Italian, Pizza, Sandwich",Dollar($),No,No,1,161,10,4
+16604358,Blue Bean Love Cafe,Hepburn Springs,144.1387014,-37.3123267,Hepburn Springs,"Cafe, Coffee and Tea, Modern Australian",Dollar($),No,No,2,192,20,3.8
+16604896,La Trattoria of Lavandula,Hepburn Springs,144.110062,-37.275494,Hepburn Springs,"Italian, Fusion, Cafe",Dollar($),No,No,1,93,7,3.8
+16612550,5 Little Pigs,Huskisson,150.6710743,-35.0388698,Huskisson,"Breakfast, Modern Australian",Dollar($),No,No,2,40,20,4.1
+16606299,Beach Box Cafe,Inverloch,145.7287133,-38.6347458,Inverloch,"Burger, Coffee and Tea, Modern Australian",Dollar($),No,No,1,100,7,3.7
+16605794,Funkey Monkey,Lakes Entrance,147.9942247,-37.8783865,Lakes Entrance,"Breakfast, Coffee and Tea",Dollar($),No,No,1,97,7,3.8
+17557488,Burger Queen Drive In,Lakeview,-120.3458,42.1885,Lakeview,"Burger, Desserts, Sandwich",Dollar($),No,No,1,41,10,3.6
+17452342,Blue Orchid Thai Restaurant,Lincoln,-96.7072,40.8143,Haymarket,Thai,Dollar($),No,No,2,799,25,4.5
+16611498,Stillwater on Belmore,Lorn,151.558475,-32.728097,Lorn,"Breakfast, Coffee and Tea",Dollar($),No,No,2,18,20,3.6
+17842104,Mr.,Macedon,144.564174,-37.423189,Macedon,Cafe,Dollar($),No,No,2,31,20,3.5
+17501291,Emilio's Cuban Cafe,Macon,-83.594494,32.567741,Bonaire,"Coffee and Tea, Cuban, Latin American",Dollar($),No,No,2,146,25,3.9
+17500759,Ingleside Village Pizza,Macon,-83.657061,32.853896,Macon,"Pizza, Sandwich",Dollar($),No,No,1,478,10,4.9
+17500767,Jim Shaw's Seafood Grill & Bar,Macon,-83.6737,32.8496,Macon,Seafood,Dollar($),No,No,2,467,25,4.6
+17500819,Mandarin Chinese Restaurant,Macon,-83.6766,32.8899,Macon,"Chinese, Thai",Dollar($),No,No,2,302,25,4.5
+17500911,Rookery,Macon,-83.6279,32.8361,Macon,"Burger, Desserts, Bar Food",Dollar($),No,No,2,289,25,4.5
+17501439,Dovetail,Macon,-83.627979,32.83641,Macon,,Dollar($),No,No,3,102,40,3.8
+17501279,Bonefish Grill,Macon,-83.713978,32.929278,Macon,"American, Seafood",Dollar($),No,No,3,293,40,4.1
+17500695,Downtown Grill,Macon,-83.6276,32.8375,Macon,Steak,Dollar($),No,No,4,195,70,4
+17501298,Greek Corner Deli,Macon,-83.628703,32.83654,Macon,"Desserts, Greek, Sandwich",Dollar($),No,No,1,244,10,4.3
+17500847,Natalia's,Macon,-83.787993,32.928495,Macon,"European, Italian, Mediterranean",Dollar($),No,No,4,379,70,4.2
+17500872,Papouli's Mediterranean Cafe & Market,Macon,-83.6873,32.901,Macon,"Greek, Mediterranean, Vegetarian",Dollar($),No,No,1,223,10,4.2
+17501315,Benson's Steak and Sushi,Macon,-83.662421,32.556873,Warner Robins,"American, Chinese, Sushi",Dollar($),No,No,2,243,25,3.7
+17501201,My Fathers Place,Macon,-83.624,32.5786,Warner Robins,Italian,Dollar($),No,No,2,104,25,3.7
+17501247,Sushi Thai Restaurant,Macon,-83.6665,32.6184,Warner Robins,"Japanese, Sushi, Thai",Dollar($),No,No,1,153,10,3.7
+17501281,The Mellow Mushroom,Macon,-83.691044,32.552684,Warner Robins,"Pizza, Sandwich, Vegetarian",Dollar($),No,No,2,323,25,3.8
+17501143,El Jalisciense Mexican Restaurant,Macon,-83.64935,32.594666,Warner Robins,Mexican,Dollar($),No,No,1,181,10,4.1
+17501292,Greek Village,Macon,-83.636618,32.6176839,Warner Robins,"American, Greek, Seafood",Dollar($),No,No,2,316,25,4
+17501308,Martin's BBQ,Macon,-83.600201,32.619321,Warner Robins,BBQ,Dollar($),No,No,2,288,25,4.2
+17501301,Thai Pepper,Macon,-83.665557,32.593264,Warner Robins,"Japanese, Sushi, Thai",Dollar($),No,No,1,232,10,4
+17501268,Zen Japanese Steakhouse and Sushi Bar,Macon,-83.7184,32.6147,Warner Robins,"Japanese, Steak, Sushi",Dollar($),No,No,3,314,40,4.1
+16611701,Star Buffet,Mayfield,151.7343832,-32.899178,Mayfield,Asian,Dollar($),No,No,2,11,20,2.9
+17482142,Triangle Restaurant,Mc Millan,-85.7363,46.3718,Mc Millan,"Breakfast, Burger",Dollar($),No,No,1,17,10,2.4
+16609169,Three Anchors,Middleton Beach,117.917166,-35.025861,Middleton Beach,"Bar Food, Modern Australian",Dollar($),No,No,3,176,30,3.8
+17606621,HI Lite Bar & Lounge,Miller,-98.9891,44.5158,Miller,,Dollar($),No,No,1,11,0,3.4
+17687832,Vince's Restaurant & Pizzeria,Monroe,-89.653487,42.606306,Monroe,"Italian, Pizza",Dollar($),No,No,2,65,25,3.6
+16613059,Poets Cafe,Montville,152.893735,-26.690462,Montville,"Coffee and Tea, Modern Australian",Dollar($),No,No,3,193,30,2.4
+17534788,The Artesian Restaurant,Ojo Caliente,-106.057666,36.313638,Ojo Caliente,"American, International, Southwestern",Dollar($),No,No,3,30,40,3.6
+17061237,CevÌ_che Tapas Bar & Restaurant,Orlando,-81.381077,28.540432,Church Street District,"Spanish, Tapas",Dollar($),No,No,3,981,40,4.4
+17057397,'Ohana,Orlando,-81.585226,28.405437,Disney World Area,Hawaiian,Dollar($),No,No,3,1151,45,4.5
+17058534,Earl of Sandwich,Orlando,-81.514608,28.372858,Disney: Downtown Disney,"American, Sandwich, Salad",Dollar($),No,No,3,1341,35,4.7
+17060320,Raglan Road Irish Pub and Restaurant,Orlando,-81.517725,28.371338,Disney: Downtown Disney,Irish,Dollar($),No,No,4,782,50,4.3
+17057925,CafÌ© Tu Tu Tango,Orlando,-81.469986,28.440344,I-Drive/Universal,"New American, Tapas",Dollar($),No,No,3,1293,40,4.6
+17060869,Texas de Brazil,Orlando,-81.4510725,28.4676808,I-Drive/Universal,"Brazilian, Steak",Dollar($),No,No,4,2324,100,4.6
+17057591,Bahama Breeze Island Grille,Orlando,-81.471526,28.437065,I-Drive/Universal,Caribbean,Dollar($),No,No,3,910,45,4.3
+17059541,Maggiano's Little Italy,Orlando,-81.471447,28.433235,I-Drive/Universal,Italian,Dollar($),No,No,4,886,50,4.4
+17064266,Hawkers Asian Street Fare,Orlando,-81.364347,28.560505,Mills 50,"Asian, Thai",Dollar($),No,No,3,1293,35,4.6
+17064405,Tako Cheena by Pom Pom,Orlando,-81.364547,28.557845,Mills 50,"Asian, Latin American, Vegetarian",Dollar($),No,No,1,570,10,4.4
+17060516,Seasons 52 Fresh Grill,Orlando,-81.487978,28.448175,Restaurant Row,American,Dollar($),No,No,4,1685,60,4.4
+17059012,Hollerbach's Willow Tree CafÌ©,Orlando,-81.266871,28.811653,Sanford,German,Dollar($),No,No,3,1699,40,4.8
+17061296,Pom Pom's Teahouse and Sandwicheria,Orlando,-81.351467,28.543571,The Milk District,"American, Sandwich, Tea",Dollar($),No,No,2,1457,25,4.9
+17061205,Yellow Dog Eats,Orlando,-81.522987,28.527592,Windermere,"American, BBQ, Sandwich",Dollar($),No,No,3,1252,35,4.9
+17064031,Tibby's New Orleans Kitchen,Orlando,-81.322631,28.601088,Winter Park,Cajun,Dollar($),No,No,2,1412,25,4.7
+17066603,The Coop,Orlando,-81.357219,28.597366,Winter Park,"Southern, Cajun, Soul Food",Dollar($),No,No,2,432,25,3.6
+17057797,Bosphorous Turkish Cuisine,Orlando,-81.3508344,28.5976271,Winter Park,"Mediterranean, Turkish",Dollar($),No,No,3,568,40,4.2
+17061253,Ethos Vegan Kitchen,Orlando,-81.352921,28.592857,Winter Park,"American, Breakfast, Vegetarian",Dollar($),No,No,2,797,25,4.4
+17059060,Hillstone,Orlando,-81.36526,28.596682,Winter Park,,Dollar($),No,No,3,1158,40,4.4
+17061231,The Ravenous Pig,Orlando,-81.356024,28.593297,Winter Park,Pub Food,Dollar($),No,No,3,1998,40,4.4
+16613649,Vivo Bar and Grill,Palm Cove,145.670768,-16.748083,Palm Cove,"Mediterranean, Seafood",Dollar($),No,No,3,381,30,4.4
+18255631,Pier 70,Paynesville,147.7227832,-37.9194154,Paynesville,Modern Australian,Dollar($),No,No,4,16,120,2.6
+16608483,DiVine,Penola,140.837409,-37.379153,Penola,"Cafe, Coffee and Tea, Sandwich",Dollar($),No,No,2,19,20,3.4
+17580453,Cactus Flower Cafe Navarre,Pensacola,-86.8573393,30.4025979,Navarre,"Mexican, Southwestern, Tex-Mex",Dollar($),No,No,2,635,25,4.2
+17580142,McGuire's Irish Pub & Brewery,Pensacola,-87.2027,30.4179,Pensacola,"Burger, Bar Food, Steak",Dollar($),No,No,3,2238,40,4.9
+17580160,New Yorker Deli & Pizzeria,Pensacola,-87.1819,30.4251,Pensacola,"Italian, Pizza, Sandwich",Dollar($),No,No,1,792,10,4.6
+17580349,Tu-Do Vietnamese Restaurant,Pensacola,-87.2216,30.4982,Pensacola,"Asian, Vietnamese",Dollar($),No,No,1,828,10,4.5
+17580412,Carrabba's Italian Grill,Pensacola,-87.205855,30.417318,Pensacola,"Italian, Pizza, Seafood",Dollar($),No,No,3,292,40,3.7
+17580590,Jaco's Bayfront Bar and Grille,Pensacola,-87.213274,30.403034,Pensacola,Tapas,Dollar($),No,No,2,502,25,3.9
+17580704,The Tin Cow,Pensacola,-87.2150874,30.4116106,Pensacola,"Burger, Bar Food",Dollar($),No,No,2,559,25,3.7
+17579928,Cactus Flower Cafe,Pensacola,-87.2080932,30.4473322,Pensacola,"Latin American, Mexican, Southwestern",Dollar($),No,No,2,1268,25,4.2
+17579992,Dharma Blue,Pensacola,-87.2092,30.4101,Pensacola,"Seafood, Sushi",Dollar($),No,No,3,669,40,4.1
+17580030,Global Grill,Pensacola,-87.2153054,30.411878,Pensacola,"European, International, Tapas",Dollar($),No,No,3,900,40,4.4
+17580074,Ichiban,Pensacola,-87.2252,30.4767,Pensacola,"Japanese, Sushi",Dollar($),No,No,2,765,25,4.3
+17580020,The Fish House,Pensacola,-87.211082,30.407358,Pensacola,"American, Seafood, Sushi",Dollar($),No,No,3,1270,40,4
+17580350,Tuscan Oven,Pensacola,-87.214,30.4692,Pensacola,"Italian, Mediterranean, Pizza",Dollar($),No,No,2,502,25,4.1
+17580408,Flounders Chowder House,Pensacola,-87.143,30.3359,Pensacola Beach,Seafood,Dollar($),No,No,3,724,40,3.9
+17579653,Hemingway's Island Grill,Pensacola,-87.142602,30.335521,Pensacola Beach,"Caribbean, Seafood, Steak",Dollar($),No,No,3,479,40,3.5
+17580476,Native Cafe,Pensacola,-87.132932,30.334776,Pensacola Beach,"Breakfast, Burger",Dollar($),No,No,2,591,25,4.2
+17580422,Peg Leg Pete's,Pensacola,-87.164376,30.327864,Pensacola Beach,"Burger, Sandwich, Seafood",Dollar($),No,No,3,1408,40,4.4
+17580539,The Grand Marlin,Pensacola,-87.149178,30.34262,Pensacola Beach,"Caribbean, Seafood",Dollar($),No,No,3,905,40,4.3
+17580511,Original Georgios Authentic Greek Food,Pensacola,-87.4218962,30.3199824,Perdido Key,Greek,Dollar($),No,No,1,816,10,4.7
+17580021,Fisherman's Corner,Pensacola,-87.427707,30.308468,Perdido Key,"Sandwich, Seafood, Cajun",Dollar($),No,No,3,747,40,4.4
+16604370,Mad Cowes Cafe,Phillip Island,145.237813,-38.448307,Phillip Island,"Breakfast, Coffee and Tea, Modern Australian",Dollar($),No,No,2,351,20,3.7
+17582467,Rupes Burgers,Pocatello,-112.3415,43.1903,Blackfoot,"Burger, Fast Food",Dollar($),No,No,1,104,10,3.7
+17582668,Texas Roadhouse,Pocatello,-112.461326,42.910518,Chubbuck,"American, BBQ, Steak",Dollar($),No,No,3,83,45,3.5
+17582498,Riverwalk Cafe,Pocatello,-112.0132,42.62,Lava Hot Springs,"Asian, Thai",Dollar($),No,No,1,91,10,3.6
+17582499,Royal Hotel,Pocatello,-112.0127,42.6192,Lava Hot Springs,"Pizza, Bar Food",Dollar($),No,No,1,59,0,3.6
+17582522,Buddy's Italian Restaurant,Pocatello,-112.4423,42.8661,Pocatello,"Italian, Pizza, Sandwich",Dollar($),No,No,3,222,40,3.7
+17582524,Butterburrs,Pocatello,-112.4516,42.8919,Pocatello,"American, Breakfast",Dollar($),No,No,3,121,30,3.6
+17582527,Chang Garden,Pocatello,-112.441,42.8928,Pocatello,Chinese,Dollar($),No,No,1,93,10,3.5
+17582551,Fifth Street Bagelry,Pocatello,-112.4397,42.8631,Pocatello,"Coffee and Tea, Sandwich",Dollar($),No,No,1,136,10,3.8
+17582558,Goody's Deli,Pocatello,-112.4365,42.8604,Pocatello,"Pizza, Sandwich",Dollar($),No,No,1,160,10,3.8
+17582560,Grecian Key Restaurant,Pocatello,-112.4524,42.8639,Pocatello,"American, Greek",Dollar($),No,No,2,152,25,3.7
+17582677,Outer Limits Fun Zone,Pocatello,-112.459988,42.878077,Pocatello,"Burger, Pizza, Sandwich",Dollar($),No,No,1,57,10,3.5
+17582670,Portneuf Valley Brewing,Pocatello,-112.443213,42.860024,Pocatello,"American, Pizza",Dollar($),No,No,2,191,25,3.7
+17582625,Sandpiper Restaurant & Lounge,Pocatello,-112.432,42.9012,Pocatello,"American, Seafood, Steak",Dollar($),No,No,3,85,40,3.6
+17582627,Senor Iguanas,Pocatello,-112.4433,42.8942,Pocatello,Mexican,Dollar($),No,No,1,108,0,3.6
+17582700,Sushi Family,Pocatello,-112.452013,42.88245,Pocatello,"Asian, Sushi, Vegetarian",Dollar($),No,No,2,132,25,3.6
+17582664,Taste of India Nepal,Pocatello,-112.45253,42.863969,Pocatello,"Indian, International, Vegetarian",Dollar($),No,No,2,141,25,3.8
+17582682,Thai Paradise,Pocatello,-112.450106,42.861871,Pocatello,"Desserts, Thai",Dollar($),No,No,2,162,25,3.7
+17582669,The Bridge,Pocatello,-112.4413856,42.8585987,Pocatello,New American,Dollar($),No,No,3,144,40,3.6
+18491935,Nosh Mahal,Pocatello,-112.44853,42.891174,Pocatello,"Indian, Persian",Dollar($),No,No,2,1,25,1
+17582546,El Herradero,Pocatello,-112.4419,42.8774,Pocatello,Mexican,Dollar($),No,No,1,365,10,4.1
+17629582,Barrett Junction Cafe,Potrero,-116.704731,32.613431,Potrero,"American, BBQ, Burger",Dollar($),No,No,2,9,25,3.3
+17211719,Blue Point Grill,Princeton,-74.651139,40.352385,Princeton,Seafood,Dollar($),No,No,4,542,70,4
+17144717,Giovanni's Shrimp Truck,Rest of Hawaii,-157.948486,21.677078,Kahuku,Seafood,Dollar($),No,No,2,691,25,4.5
+17143970,Kona Brewing Company,Rest of Hawaii,-155.997362,19.642752,Kailua Kona,"American, Pizza, Bar Food",Dollar($),No,No,3,764,35,4.7
+17142698,Leonard's Bakery,Rest of Hawaii,-157.813432,21.284586,Kaimuki,,Dollar($),No,No,1,707,10,4.7
+17144991,Coconuts Fish Cafe,Rest of Hawaii,-156.455284,20.748838,Kihei,Seafood,Dollar($),No,No,3,487,30,4.5
+17142519,Kihei Caffe,Rest of Hawaii,-156.451847,20.731487,Kihei,"American, Hawaiian",Dollar($),No,No,1,695,10,4.5
+17145408,Monkeypod Kitchen by Merriman,Rest of Hawaii,-156.4309473,20.6883746,Kihei,Burger,Dollar($),No,No,3,485,40,4.2
+17143336,Sansei Seafood Restaurant & Sushi Bar,Rest of Hawaii,-156.452556,20.733554,Kihei,"Japanese, Seafood, Sushi",Dollar($),No,No,3,807,40,4.2
+17145077,Star Noodle,Rest of Hawaii,-156.674835,20.885226,Lahaina,Asian,Dollar($),No,No,1,723,10,4.6
+17141447,Aloha Mixed Plate,Rest of Hawaii,-156.684967,20.886564,Lahaina,"Asian, Breakfast, Hawaiian",Dollar($),No,No,1,874,10,4.2
+17142096,Gazebo,Rest of Hawaii,-156.667037,20.992316,Lahaina,"Breakfast, Burger",Dollar($),No,No,2,552,25,4.4
+17142297,Hula Grill,Rest of Hawaii,-156.693821,20.921347,Lahaina,"Hawaiian, Seafood, Steak",Dollar($),No,No,3,1056,40,4.3
+17142535,Kimo's,Rest of Hawaii,-156.680666,20.876127,Lahaina,"Hawaiian, Seafood, Steak",Dollar($),No,No,3,707,40,4.3
+17142792,Mama's Fish House,Rest of Hawaii,-156.366445,20.929622,Paia,"Hawaiian, Seafood",Dollar($),No,No,4,1343,70,4.9
+17145495,Marukame Udon,Rest of Hawaii,-157.825979,21.279476,Waikiki,Japanese,Dollar($),No,No,1,602,10,4.9
+17143950,Yard House,Rest of Hawaii,-157.8312476,21.2794952,Waikiki,"American, Asian, Burger",Dollar($),No,No,3,1078,40,4.6
+17142747,Lulu's Waikiki,Rest of Hawaii,-157.822716,21.271826,Waikiki,American,Dollar($),No,No,2,232,25,3.9
+17141990,Duke's Waikiki,Rest of Hawaii,-157.827196,21.277583,Waikiki,"Hawaiian, Seafood, Steak",Dollar($),No,No,4,1492,70,4.4
+17144732,Eggs 'n Things,Rest of Hawaii,-157.831538,21.280663,Waikiki,Breakfast,Dollar($),No,No,1,535,10,4
+17143282,Roy's,Rest of Hawaii,-157.831176,21.279154,Waikiki,"Asian, European, Seafood",Dollar($),No,No,4,531,70,4.2
+17143705,Wailana Coffee House,Rest of Hawaii,-157.836031,21.285396,Waikiki,"American, Breakfast, Hawaiian",Dollar($),No,No,2,694,25,4.2
+17615915,The Lady & Sons,Savannah,-81.0954,32.0804,Savannah,Southern,Dollar($),No,No,3,1201,40,3.3
+17616487,Green Truck Pub,Savannah,-81.096647,32.052858,Savannah,Burger,Dollar($),No,No,3,906,40,4.7
+17615924,Leopold's Ice Cream,Savannah,-81.0894,32.0785,Savannah,"Desserts, Sandwich, Ice Cream",Dollar($),No,No,1,880,10,4.6
+17615979,Mrs. Wilkes' Dining Room,Savannah,-81.0955,32.0727,Savannah,"American, Southern",Dollar($),No,No,3,1014,40,4.5
+17616266,Zunzi's,Savannah,-81.0911,32.0775,Savannah,"International, Mediterranean, Sandwich",Dollar($),No,No,2,796,25,4.5
+17615976,Moon River Brewing Company,Savannah,-81.0916,32.0809,Savannah,"American, Bar Food, Sandwich",Dollar($),No,No,2,747,25,3.7
+17616025,Pirates' House Restaurant,Savannah,-81.0844,32.0782,Savannah,"American, Seafood, Steak",Dollar($),No,No,3,566,40,3.8
+17615597,B. Matthew's Eatery,Savannah,-81.0875,32.0798,Savannah,"American, Breakfast",Dollar($),No,No,2,683,25,4.1
+17615740,Crystal Beer Parlor,Savannah,-81.0979,32.0735,Savannah,"American, Bar Food",Dollar($),No,No,2,690,25,4.4
+17616203,Goose Feathers Cafe and Bakery,Savannah,-81.0941,32.0801,Savannah,"Breakfast, Vegetarian",Dollar($),No,No,1,680,10,4.2
+17616590,Henry's,Savannah,-81.0905213,32.0794767,Savannah,"American, Breakfast",Dollar($),No,No,1,287,10,4.1
+17615855,Huey's On The River,Savannah,-81.0897,32.0812,Savannah,"Breakfast, Cajun",Dollar($),No,No,3,802,40,4.1
+17616348,J. Christopher's,Savannah,-81.091482,32.074495,Savannah,"Breakfast, Diner, Sandwich",Dollar($),No,No,2,710,25,4.3
+17616368,Lulu's Chocolate Bar,Savannah,-81.097051,32.080742,Savannah,"Coffee and Tea, Desserts",Dollar($),No,No,1,456,10,4.3
+17616400,Rocks on the River,Savannah,-81.092484,32.081394,Savannah,"Pizza, Seafood, Steak",Dollar($),No,No,4,687,70,4
+17616076,SOHO South Cafe,Savannah,-81.0939,32.0747,Savannah,"Cafe, Sandwich, Southern",Dollar($),No,No,2,719,25,4.3
+17616205,The Olde Pink House,Savannah,-81.0897,32.0798,Savannah,"American, Seafood, Southern",Dollar($),No,No,4,1803,70,4.4
+17616222,Vic's On The River,Savannah,-81.0908,32.0809,Savannah,American,Dollar($),No,No,4,558,70,4.1
+17616295,The Crab Shack,Savannah,-80.865909,32.011689,Tybee Island,Seafood,Dollar($),No,No,3,883,40,3.8
+17616465,Tybee Island Social Club,Savannah,-80.848297,31.99581,Tybee Island,,Dollar($),No,No,1,309,10,3.9
+18483372,Sky On 57,Singapore,103.8600048,1.2826608,"Bayfront Avenue, Downtown Core","Chinese, Continental, Singaporean",Dollar($),No,No,4,34,300,3.4
+18484349,Cut By Wolfgang Puck,Singapore,103.8594222,1.285476931,"Bayfront Subzone, Downtown Core","American, Steak",Dollar($),No,No,4,33,270,4
+18496057,Restaurant Andre,Singapore,103.8403602,1.279419756,"Cantonment Road, Outram","French, Mediterranean, European",Dollar($),No,No,4,33,500,3.8
+18483389,Potato Head Folk,Singapore,103.8416688,1.280502991,"Chinatown, Outram",American,Dollar($),No,No,4,34,80,3.1
+18483222,Jaan,Singapore,103.8536048,1.293220698,"City Hall, Downtown Core",French,Dollar($),No,No,4,35,430,3.8
+18483085,Rhubarb Le Restaurant,Singapore,103.8430222,1.27944363,"Duxton Hill, Outram",French,Dollar($),No,No,4,33,315,3.9
+18484423,Al'frank Cookies,Singapore,103.859422,1.300404333,"Haji Lane, Rochor",Bakery,Dollar($),No,No,2,29,20,4.2
+18483714,Fratini La Trattoria,Singapore,103.8070809,1.331128397,"Hillcrest, Bukit Timah",Italian,Dollar($),No,No,4,35,100,4.1
+18485469,Boufe Boutique Cafe,Singapore,103.8146178,1.29782554,"Kay Siang Road, Tanglin","Italian, French, Bakery, Cafe",Dollar($),No,No,3,29,50,3.2
+18479690,The Refinery Singapore,Singapore,103.8621195,1.310668316,"Lavender, Kallang","American, Japanese, Singaporean",Dollar($),No,No,4,30,80,3.2
+18483224,Chye Seng Huat Hardware,Singapore,103.8604162,1.311550709,"Lavender, Kallang",Cafe,Dollar($),No,No,3,33,40,3.7
+18493989,Makansutra Gluttons Bay,Singapore,103.8558665,1.289761964,"Marina Centre, Downtown Core","Singaporean, Chinese, Seafood, Malay, Indian",Dollar($),No,No,3,25,30,3
+18484464,Colony,Singapore,103.859955,1.2905805,"Marina Centre, Downtown Core","Asian, Continental, Seafood",Dollar($),No,No,4,30,220,3.8
+18483051,Summer Pavilion,Singapore,103.8601766,1.290800881,"Marina Centre, Downtown Core","Chinese, Seafood, Cantonese, Dim Sum",Dollar($),No,No,4,34,300,3.9
+18482983,The Lokal,Singapore,103.840921,1.278373182,"Neil Road, Outram","Singaporean, Australian, German",Dollar($),No,No,4,33,60,3.1
+18479742,I Am,Singapore,103.8584296,1.301707168,"North Bridge Road, Rochor","Western, Fusion, Fast Food",Dollar($),No,No,4,32,60,3.2
+18482938,Super Loco,Singapore,103.839165,1.290083898,"Robertson Quay, Singapore River","American, Mexican",Dollar($),No,No,4,30,95,3.2
+18483082,Artistry,Singapore,103.8581813,1.303034648,"Sungai Pinang, Rochor","American, Bakery, European, Burger, Fusion",Dollar($),No,No,3,28,50,3.8
+18483446,Bitters & Love,Singapore,103.8482541,1.28197,"Telok Ayer Street, Outram",Finger Food,Dollar($),No,No,3,35,40,3.9
+18483252,Artichoke Cafe,Singapore,103.8519943,1.299707726,"Victoria, Rochor","Cafe, Spanish, Turkish, Greek",Dollar($),No,No,4,33,75,3.2
+17621616,Archie's Waeside,Sioux City,-96.1608,42.7956,Le Mars,"Burger, Seafood, Steak",Dollar($),No,No,3,100,40,3.7
+17621696,Bob Roe's Pizza,Sioux City,-96.379,42.4765,Sioux City,"American, Pizza, Bar Food",Dollar($),No,No,1,92,10,3.6
+17621744,Da Kao Restaurant,Sioux City,-96.4173,42.5026,Sioux City,"Asian, Vegetarian, Vietnamese",Dollar($),No,No,1,182,10,3.8
+17621759,Famous Dave's,Sioux City,-96.4051,42.492,Sioux City,BBQ,Dollar($),No,No,1,76,10,3.6
+17621763,Fuji Bay Japanese Restaurant,Sioux City,-96.4046,42.4965,Sioux City,"Japanese, Sushi",Dollar($),No,No,3,129,40,3.7
+17621780,HuHot Mongolian Grill,Sioux City,-96.3479,42.4391,Sioux City,"Asian, Chinese",Dollar($),No,No,2,94,25,3.6
+17621781,Hunan Palace,Sioux City,-96.362,42.4375,Sioux City,Chinese,Dollar($),No,No,2,129,25,3.8
+17621788,Jerry's Pizza,Sioux City,-96.3596,42.4764,Sioux City,Pizza,Dollar($),No,No,2,178,25,3.8
+17621793,Jim's Burgers,Sioux City,-96.4048,42.4985,Sioux City,Burger,Dollar($),No,No,1,97,10,3.7
+17621796,Johnnie Mars,Sioux City,-96.378049,42.495534,Sioux City,"American, Desserts, Diner",Dollar($),No,No,1,161,10,3.9
+17621831,Miles Inn,Sioux City,-96.3755,42.4876,Sioux City,American,Dollar($),No,No,1,122,10,3.7
+17621832,Milwaukee Wiener House,Sioux City,-96.4063904,42.4930681,Sioux City,"American, Fast Food",Dollar($),No,No,1,195,10,3.8
+17621833,Minerva's Food & Cocktails,Sioux City,-96.418,42.5212,Sioux City,"American, Seafood, Steak",Dollar($),No,No,3,146,40,3.7
+17621834,Monterrey Mexican Restaurant,Sioux City,-96.3691,42.4351,Sioux City,Mexican,Dollar($),No,No,1,117,10,3.7
+17621869,Rebos,Sioux City,-96.3959487,42.4944454,Sioux City,"Caribbean, Mexican, Cajun",Dollar($),No,No,2,187,25,3.8
+17621960,Tokyo Japanese Steakhouse & Sushi Bar,Sioux City,-96.349464,42.440592,Sioux City,"Japanese, Steak, Sushi",Dollar($),No,No,3,239,40,3.9
+17621746,Diamond Thai Cuisine,Sioux City,-96.4136,42.5011,Sioux City,"Asian, Thai, Vegetarian",Dollar($),No,No,1,303,10,4
+17621755,El Fredo Pizza,Sioux City,-96.4204,42.5106,Sioux City,Pizza,Dollar($),No,No,3,280,40,4
+17621946,Trattoria Fresco,Sioux City,-96.4019631,42.4949153,Sioux City,Italian,Dollar($),No,No,2,271,25,4
+17621552,Kahill's Steak-Fish Chophouse,Sioux City,-96.4092028,42.485608,South Sioux City,"American, Seafood, Steak",Dollar($),No,No,4,58,70,3.5
+17096140,Rumba Island Bar & Grill,Tampa Bay,-82.762624,27.96076,Clearwater,"BBQ, Caribbean, Seafood",Dollar($),No,No,2,1321,25,4.6
+17099925,Red Mesa Cantina,Tampa Bay,-82.636924,27.770026,Downtown St Petersburg,"Latin American, Mexican, Southwestern",Dollar($),No,No,2,1629,25,4.6
+17092257,BellaBrava,Tampa Bay,-82.6329663,27.7737426,Downtown St Petersburg,"American, Italian, Seafood",Dollar($),No,No,2,921,25,4.1
+17092799,Ceviche Tapas Bar & Restaurant,Tampa Bay,-82.6333294,27.7711464,Downtown St Petersburg,"Spanish, Tapas",Dollar($),No,No,2,986,25,4.1
+17095222,The Moon Under Water,Tampa Bay,-82.632174,27.775462,Downtown St Petersburg,"British, Bar Food, Sandwich",Dollar($),No,No,2,1020,25,4.1
+17092293,Bern's Steak House,Tampa Bay,-82.482962,27.931516,Hyde Park,"American, Desserts, Steak",Dollar($),No,No,4,3157,70,4.7
+17102241,Boca Kitchen Bar Market,Tampa Bay,-82.46887,27.941942,Hyde Park,Breakfast,Dollar($),No,No,3,665,40,3.9
+17102579,Edison: Food+Drink Lab,Tampa Bay,-82.469306,27.944244,Hyde Park,International,Dollar($),No,No,4,373,70,3.9
+17092801,Ceviche Tapas Bar & Restaurant,Tampa Bay,-82.4852372,27.9410382,Hyde Park,"Breakfast, Spanish, Tapas",Dollar($),No,No,2,1007,25,4.4
+17093273,Daily Eats,Tampa Bay,-82.483124,27.935039,Hyde Park,"American, Burger",Dollar($),No,No,2,803,25,4.4
+17096198,Salt Rock Grill,Tampa Bay,-82.843253,27.848357,Indian Rocks/Indian Shores,"American, Seafood, Steak",Dollar($),No,No,3,1363,40,4.2
+17095098,Mazzaro's Italian Market,Tampa Bay,-82.673621,27.792047,Kenwood,"Italian, Deli",Dollar($),No,No,1,1424,10,4.9
+17093135,Conch Republic Grill,Tampa Bay,-82.820856,27.816086,Madeira Beach/Redington Beach,"Sandwich, Seafood, Steak",Dollar($),No,No,3,844,40,4.5
+17095236,Mr. Dunderbak's Biergarten and Marketplatz,Tampa Bay,-82.41294,28.082909,New Tampa,"European, German",Dollar($),No,No,3,1413,40,4.9
+17095979,Red Mesa Restaurant,Tampa Bay,-82.638843,27.816848,Northeast St Petersburg,"Breakfast, Mexican",Dollar($),No,No,3,1203,40,4.5
+17099856,Datz,Tampa Bay,-82.4932815,27.9219315,Palma Ceia,"Desserts, Bar Food",Dollar($),No,No,3,3074,40,4.7
+17100307,Ella's Americana Folk Art Cafe,Tampa Bay,-82.451041,27.993645,Seminole Heights,"International, Italian, Southern",Dollar($),No,No,3,1715,40,4.8
+17093600,Taco Bus,Tampa Bay,-82.449897,27.995964,Seminole Heights,"Mexican, Vegetarian",Dollar($),No,No,1,1868,10,4.5
+17100547,The Refinery,Tampa Bay,-82.459339,27.99384,Seminole Heights,"Seafood, Steak",Dollar($),No,No,3,875,40,4
+17093124,Columbia Restaurant,Tampa Bay,-82.4351499,27.959884,Ybor City,"Cuban, Spanish",Dollar($),No,No,3,1746,40,4.4
+16608059,1918 Bistro & Grill,Tanunda,138.966064,-34.519619,Tanunda,"Modern Australian, Australian",Dollar($),No,No,3,339,30,4.4
+16605194,Pig and Whistle,Trentham East,144.41272,-37.396942,Trentham East,Australian,Dollar($),No,No,2,87,20,4.1
+17678243,Buffalo Wild Wings,Valdosta,-83.319123,30.846819,Valdosta,Bar Food,Dollar($),No,No,2,98,25,3.4
+17678043,El Toreo Mexican Restaurant,Valdosta,-83.3247,30.8426,Valdosta,Mexican,Dollar($),No,No,2,83,25,3.1
+17677978,306 North Restaurant,Valdosta,-83.2799,30.8332,Valdosta,"Seafood, Southern",Dollar($),No,No,3,231,40,3.9
+17677988,Austins Cattle Co,Valdosta,-83.3170843,30.8164364,Valdosta,"Burger, Seafood, Steak",Dollar($),No,No,3,216,40,3.7
+17678231,Beijing Cafe,Valdosta,-83.318554,30.841892,Valdosta,"Asian, Chinese, Thai",Dollar($),No,No,3,185,35,3.8
+17677990,Bleu Cafe,Valdosta,-83.279,30.8308,Valdosta,"Pizza, Sandwich",Dollar($),No,No,2,185,25,3.7
+17677991,Bleu Pub,Valdosta,-83.2792,30.8308,Valdosta,"Burger, Bar Food, Vegetarian",Dollar($),No,No,1,281,10,3.8
+17678307,Bubba Jax Crab Shack,Valdosta,-83.3085736,30.8223548,Valdosta,"Fast Food, Seafood",Dollar($),No,No,3,137,40,3.7
+17678276,Cheddar's Scratch Kitchen,Valdosta,-83.316402,30.824691,Valdosta,American,Dollar($),No,No,2,209,25,3.7
+17678283,El Cazador,Valdosta,-83.28078,30.850888,Valdosta,Mexican,Dollar($),No,No,1,168,10,3.7
+17678222,Friends Grille and Bar,Valdosta,-83.29633,30.880146,Valdosta,"American, Southern",Dollar($),No,No,2,243,25,3.9
+17678055,Giulios Greek & Italian Restaurant,Valdosta,-83.2851,30.8433,Valdosta,"Greek, Italian",Dollar($),No,No,3,221,40,3.8
+17678326,La Jalisco Supermercato,Valdosta,-83.281,30.8465,Valdosta,Mexican,Dollar($),No,No,1,46,10,3.5
+17678229,Masato Japanese,Valdosta,-83.310343,30.846763,Valdosta,"Japanese, Sushi",Dollar($),No,No,2,262,25,3.9
+17678097,Mom & Dad's Italian Restaurant,Valdosta,-83.3283,30.8971,Valdosta,Italian,Dollar($),No,No,2,183,25,3.7
+17678216,Mori's Japanese Steakhouse & Sushi Bar,Valdosta,-83.318958,30.841547,Valdosta,"Japanese, Steak, Sushi",Dollar($),No,No,4,208,70,3.5
+17678233,Passage 2 India,Valdosta,-83.289338,30.87114,Valdosta,"Indian, Middle Eastern",Dollar($),No,No,2,245,25,3.8
+17678148,Rodeo Mexican Restaurant,Valdosta,-83.2868,30.868,Valdosta,Mexican,Dollar($),No,No,2,199,25,3.8
+17678291,Steel Magnolias,Valdosta,-83.2796,30.8316,Valdosta,Southern,Dollar($),No,No,3,225,40,3.8
+17678218,Smok'n Pig B-B-Q,Valdosta,-83.332796,30.897087,Valdosta,BBQ,Dollar($),No,No,2,575,25,4.1
+17558738,Blue House Cafe,Vernonia,-123.1954368,45.858667,Vernonia,"Coffee and Tea, Mediterranean",Dollar($),No,No,1,88,10,4.3
+16608209,Anchorage Cafe Restaurant Wine Bar,Victor Harbor,138.624316,-35.5536609,Victor Harbor,"Coffee and Tea, Tapas, Australian",Dollar($),No,No,2,96,20,3.6
+16654702,Lake House Restaurant,Vineland Station,-79.3791465,43.1868697,Vineland Station,"Italian, Mediterranean, Pizza",Dollar($),No,No,4,204,70,4.3
+17697444,Masala Grill & Coffee House,Waterloo,-92.456343,42.516908,Cedar Falls,"Indian, Middle Eastern",Dollar($),No,No,1,18,10,3.2
+17696871,Brown Bottle The Cedar Falls,Waterloo,-92.4507,42.5464,Cedar Falls,"Italian, Pizza, Vegetarian",Dollar($),No,No,2,134,25,3.7
+17696891,Four Queens Dairy Cream,Waterloo,-92.4599,42.5377,Cedar Falls,Desserts,Dollar($),No,No,1,190,10,3.9
+17696901,Hong Kong Chinese Restaurant,Waterloo,-92.4322,42.5133,Cedar Falls,Chinese,Dollar($),No,No,1,136,10,3.8
+17697384,HuHot Mongolian Grill,Waterloo,-92.432177,42.512646,Cedar Falls,"Asian, Chinese",Dollar($),No,No,2,113,25,3.7
+17697417,J's Homestyle Cooking,Waterloo,-92.466597,42.509472,Cedar Falls,"American, Breakfast",Dollar($),No,No,1,69,10,3.6
+17696918,Montage,Waterloo,-92.4453,42.5366,Cedar Falls,"American, Italian, Seafood",Dollar($),No,No,3,89,40,3.6
+17696920,Mulligan's Brick Oven Grill,Waterloo,-92.444,42.5219,Cedar Falls,"Burger, Pizza, Sandwich",Dollar($),No,No,2,80,25,3.6
+17697398,Sakura,Waterloo,-92.426215,42.51259,Cedar Falls,"Japanese, Sushi",Dollar($),No,No,3,175,40,3.8
+17697406,Scratch,Waterloo,-92.4457417,42.5354081,Cedar Falls,"Coffee and Tea, Desserts, Beverages",Dollar($),No,No,1,136,10,3.7
+17696941,SOHO Sushi Bar & Deli,Waterloo,-92.4457,42.5375,Cedar Falls,"Sandwich, Sushi, Tapas",Dollar($),No,No,2,114,25,3.6
+17696955,Texas Roadhouse,Waterloo,-92.4291,42.5127,Cedar Falls,"American, BBQ, Steak",Dollar($),No,No,2,93,25,3.6
+17696957,Tony's La Pizzeria,Waterloo,-92.445723,42.53489,Cedar Falls,"Pizza, Sandwich",Dollar($),No,No,2,89,25,3.6
+17697418,Chapala,Waterloo,-92.323032,42.477281,Waterloo,Mexican,Dollar($),No,No,2,69,25,3.6
+17697386,Galleria de Paco,Waterloo,-92.339721,42.494908,Waterloo,American,Dollar($),No,No,3,86,40,3.6
+17697224,Golden China,Waterloo,-92.356066,42.458979,Waterloo,Chinese,Dollar($),No,No,1,73,10,3.7
+17697304,Rudy's Tacos,Waterloo,-92.3772,42.499705,Waterloo,Mexican,Dollar($),No,No,2,104,25,3.6
+17697389,The Screaming Eagle,Waterloo,-92.335523,42.4984,Waterloo,"American, Bar Food",Dollar($),No,No,1,101,10,3.7
+17697424,The Thai Bowl,Waterloo,-92.335769,42.497919,Waterloo,Thai,Dollar($),No,No,1,58,10,3.5
+17697332,Tokyo Japanese Steak House,Waterloo,-92.3234,42.46558,Waterloo,"Japanese, Steak, Sushi",Dollar($),No,No,2,156,25,3.9
+17694056,Theo Yianni's Authentic Greek Restaurant,Weirton,-80.529488,40.396043,Weirton,"Burger, Greek, Sandwich",Dollar($),No,No,2,156,25,3.9
+17559793,Fishpatrick's Crabby Cafe,Winchester Bay,-124.175346,43.678998,Winchester Bay,"Burger, Seafood, Steak",Dollar($),No,No,2,16,25,3.2
+16668008,Arigato Sushi,Yorkton,-102.4613173,51.2106824,Yorkton,Asian,Dollar($),No,No,2,26,25,3.3
+18212135,Denny's,Abu Dhabi,54.38279729,24.49550307,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",American,Emirati Diram(AED),No,No,4,207,190,4.6
+5704255,Famous Dave's Barbecue,Abu Dhabi,54.38294616,24.49569253,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",American,Emirati Diram(AED),No,Yes,4,376,260,4.6
+5701978,Pizza Di Rocco,Abu Dhabi,54.38193094,24.48557932,Al Dhafrah,"Italian, Pizza",Emirati Diram(AED),Yes,Yes,3,471,150,4.4
+5701729,Sofra Istanbul,Abu Dhabi,54.37127855,24.47756501,Al Dhafrah,"Turkish, Arabian, Middle Eastern",Emirati Diram(AED),No,No,2,224,70,4.3
+5704168,Salt,Abu Dhabi,54.38080709,24.4543119,Al Mushrif,"Fast Food, Burger",Emirati Diram(AED),No,No,3,228,100,4.2
+18277098,Genghis Grill,Abu Dhabi,54.37500816,24.47083582,"Al Wahda Mall, Al Wahda",Asian,Emirati Diram(AED),No,No,4,81,180,4.6
+5701446,Olive Garden,Abu Dhabi,54.37332205,24.46936983,"Al Wahda Mall, Al Wahda","Italian, Pizza",Emirati Diram(AED),No,No,4,422,230,4.1
+5700052,Cho Gao - Crowne Plaza Abu Dhabi,Abu Dhabi,54.365694,24.491235,"Crowne Plaza Abu Dhabi, Al Markaziya","Thai, Japanese, Chinese, Indonesian, Vietnamese",Emirati Diram(AED),Yes,Yes,4,246,350,4.4
+5702418,Gazebo,Abu Dhabi,54.52412188,24.33421694,"Dalma Mall, Mussafah Sanaiya","Indian, North Indian, Mughlai, Biryani",Emirati Diram(AED),Yes,Yes,3,355,120,4
+5700386,Sangeetha Vegetarian Restaurant,Abu Dhabi,54.36377607,24.48525254,Madinat Zayed,"Indian, South Indian",Emirati Diram(AED),No,Yes,2,268,60,3.6
+5704202,Hot Palayok,Abu Dhabi,54.36615754,24.48277094,"Madinat Zayed Shopping Centre, Madinat Zayed ","Filipino, Japanese, Asian",Emirati Diram(AED),No,Yes,3,162,100,4.5
+5701052,Applebee's,Abu Dhabi,54.41314146,24.43409939,"Mushrif Mall, Al Mushrif","American, Mexican, Seafood",Emirati Diram(AED),No,Yes,4,205,250,4
+5704118,Tikka Tonight,Abu Dhabi,54.51003961,24.36312973,Mussafah Sanaiya,"Pakistani, Afghani, Indian, Hyderabadi",Emirati Diram(AED),No,Yes,2,277,50,4
+5701548,Bait El Khetyar,Abu Dhabi,54.37143378,24.48841145,Najda,"Lebanese, Arabian, Middle Eastern",Emirati Diram(AED),No,Yes,2,380,70,4
+18235425,Indian By Nature,Abu Dhabi,54.37324997,24.48959102,Najda,Indian,Emirati Diram(AED),Yes,Yes,3,180,80,4.3
+5702615,Via Delhi,Abu Dhabi,54.37422059,24.49089202,Najda,"Indian, North Indian, Chinese",Emirati Diram(AED),No,Yes,3,525,100,4
+5703500,Punjab Grill,Abu Dhabi,54.4872137,24.4106148,"Venetian Village, Al Maqtaa","Indian, North Indian",Emirati Diram(AED),Yes,No,4,216,330,4.9
+18253896,Tamba,Abu Dhabi,54.358147,24.488161,"World Trade Center Mall, Al Markaziya",Indian,Emirati Diram(AED),Yes,No,4,201,500,4.7
+5701917,P.F. Chang's,Abu Dhabi,54.35782894,24.48761082,"World Trade Center Mall, Al Markaziya",Chinese,Emirati Diram(AED),No,No,4,435,250,4.2
+5702574,The Cheesecake Factory,Abu Dhabi,54.60685361,24.49053138,"Yas Mall, Yas Island","American, Desserts",Emirati Diram(AED),No,No,4,586,200,4.6
+202321,The Farm,Dubai,55.310519,25.095044,Al Barari,"Mediterranean, Italian, Thai, European",Emirati Diram(AED),Yes,No,3,927,280,3.9
+206488,Maharaja Bhog,Dubai,55.30919038,25.25124063,Al Karama,"Indian, Rajasthani",Emirati Diram(AED),Yes,Yes,2,1448,90,4.1
+209654,Rasoi Ghar,Dubai,55.3019169,25.25007862,Al Karama,Indian,Emirati Diram(AED),Yes,Yes,2,1281,90,4.3
+18340881,Barbeque Nation,Dubai,55.215341,25.11338,Barsha 2,"Indian, North Indian",Emirati Diram(AED),Yes,No,3,307,150,4.5
+18233284,Farzi Cafe,Dubai,55.26191946,25.2080323,"CITY WALK, Al Safa","International, Indian",Emirati Diram(AED),Yes,No,3,909,200,4.5
+18269368,AB's Absolute Barbecues,Dubai,55.32874,25.254105,Deira City Centre Area,"Continental, Indian",Emirati Diram(AED),Yes,No,3,641,160,4.9
+18254160,Carnival By Tresind,Dubai,55.281966,25.211183,DIFC,Indian,Emirati Diram(AED),Yes,No,4,322,500,4.9
+208939,AB's Absolute Barbecues,Dubai,55.17874617,25.10777315,Dubai Media City,"Indian, Continental",Emirati Diram(AED),Yes,No,3,2510,160,4.8
+201531,Hard Rock Cafe,Dubai,55.35147775,25.22399154,Festival City,"American, Burger",Emirati Diram(AED),No,No,4,1388,300,4.5
+208965,The Coffee Club,Dubai,55.25639722,25.21110278,Jumeirah 1,Cafe,Emirati Diram(AED),No,Yes,3,403,140,4.5
+208778,SALT,Dubai,55.21152779,25.16812806,"Kite Beach, Umm Suqeim","Fast Food, Burger",Emirati Diram(AED),No,No,3,1351,100,4.3
+209703,Din Tai Fung,Dubai,55.19854523,25.11851301,"Mall of the Emirates, Barsha 1","Asian, Chinese",Emirati Diram(AED),No,No,3,661,160,4.3
+18381837,SpiceKlub,Dubai,55.288061,25.252054,Mankhool,"Indian, North Indian, Street Food",Emirati Diram(AED),Yes,No,3,281,150,4.4
+208850,Tresind - Nassima Royal Hotel,Dubai,55.28256778,25.22347744,"Nassima Royal Hotel, Trade Centre Area",Indian,Emirati Diram(AED),Yes,No,4,1352,500,4.9
+210134,Grand Barbeque Buffet Restaurant,Dubai,55.27340334,25.24107351,Satwa,"Indian, Asian",Emirati Diram(AED),Yes,Yes,3,552,150,4.4
+201044,Red Lobster,Dubai,55.278525,25.198291,"The Dubai Mall,Downtown Dubai","Seafood, American",Emirati Diram(AED),No,No,3,506,285,3.2
+201340,The Cheesecake Factory,Dubai,55.27856994,25.19726756,"The Dubai Mall,Downtown Dubai","American, Desserts",Emirati Diram(AED),No,No,3,2424,270,4.7
+18289126,Parker's,Dubai,55.27927805,25.19500831,"The Dubai Mall,Downtown Dubai","Cafe, Burger",Emirati Diram(AED),No,No,3,386,170,4.3
+202507,Applebee's,Dubai,55.27430557,25.21135663,Trade Centre Area,"American, Mexican, Burger",Emirati Diram(AED),No,Yes,3,500,250,3.7
+210139,Grub Shack,Dubai,55.32548446,25.22931113,Umm Hurair,"Goan, Chinese, Indian, North Indian",Emirati Diram(AED),Yes,Yes,3,544,130,4.3
+5600424,Kamat,Sharjah,55.39273214,25.33315516,Abu Shagara,"Indian, North Indian, South Indian, Chinese",Emirati Diram(AED),No,Yes,3,285,85,3.9
+5602751,Vadakkan Pepper,Sharjah,55.396984,25.338089,Abu Shagara,South Indian,Emirati Diram(AED),No,Yes,3,210,70,3.8
+5600457,Gazebo,Sharjah,55.39269626,25.33320395,Abu Shagara,"Indian, Mughlai, South Indian, Biryani",Emirati Diram(AED),No,Yes,4,372,120,4.1
+5600642,Katis Restaurant,Sharjah,55.37637066,25.32578908,Al Khan,"Indian, North Indian, Chinese",Emirati Diram(AED),No,No,3,316,65,4.3
+18268134,Zaroob,Sharjah,55.38474888,25.32451353,Al Majaz,Lebanese,Emirati Diram(AED),No,Yes,4,69,110,3.9
+18376208,Derby,Sharjah,55.37086055,25.33045321,Al Majaz,"Fast Food, American",Emirati Diram(AED),No,No,2,33,40,4.1
+5600959,Nayaab Haandi,Sharjah,55.37552107,25.32813499,Al Majaz,"Pakistani, Indian",Emirati Diram(AED),No,Yes,4,449,100,4.1
+5600103,Najmat Lahore Restaurant,Sharjah,55.38215585,25.35508316,Al Mareija,"Pakistani, Indian, Mughlai",Emirati Diram(AED),No,Yes,3,504,80,4.2
+5602586,Saffron,Sharjah,55.38290787,25.35443539,Al Mareija,"Pakistani, Chinese, Indian, Afghani",Emirati Diram(AED),No,Yes,3,192,90,4.1
+5600961,Pizza Hut,Sharjah,55.37454341,25.30564046,Al Nahda,"Fast Food, Pizza",Emirati Diram(AED),No,No,3,154,80,2.4
+5600960,Al Mukhtar Bakery,Sharjah,55.37728127,25.3084117,Al Nahda,"Bakery, Arabian, Middle Eastern",Emirati Diram(AED),No,No,2,142,50,4.2
+5601340,Aroos Damascus,Sharjah,55.39045796,25.34640794,Al Nud,"Arabian, Middle Eastern",Emirati Diram(AED),No,No,3,444,60,4.2
+5600701,Nando's,Sharjah,55.376027,25.32188994,"Al Qasba, Al Khan","African, Portuguese",Emirati Diram(AED),No,Yes,4,265,160,4.2
+5601404,Peking Chinese Restaurant,Sharjah,55.39922744,25.34839077,Halwan Suburb,"Chinese, Thai",Emirati Diram(AED),No,Yes,4,227,130,3.8
+5600556,TGI Friday's,Sharjah,55.38781766,25.32774497,"Majaz Waterfront, Al Majaz 3","American, Mexican",Emirati Diram(AED),No,Yes,4,357,250,3.9
+5602055,Rajasthan Al Malaki,Sharjah,55.45195531,25.2887722,Muwailih Commercial,"Indian, North Indian",Emirati Diram(AED),No,No,3,459,60,4.8
+5601521,Applebee's,Sharjah,55.37353624,25.29782287,"Sahara Centre, Al Nahda","American, Mexican, Burger",Emirati Diram(AED),No,Yes,4,197,250,4.1
+5602377,Paper Fig,Sharjah,55.45834266,25.3084123,University City,"Cafe, Bakery, Desserts",Emirati Diram(AED),No,No,4,143,150,4.5
+5602884,Sis Burger,Sharjah,55.45425095,25.31127229,University City,"Fast Food, Burger",Emirati Diram(AED),No,No,2,12,50,3.8
+5602942,Crafted Blends,Sharjah,55.460279,25.310369,University City,Cafe,Emirati Diram(AED),No,No,4,43,110,4.2
+3400025,Jahanpanah,Agra,78.01154444,27.16166111,Agra Cantt,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,3,140,850,3.9
+3400341,Rangrezz Restaurant,Agra,0,0,Agra Cantt,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,2,71,700,3.5
+3400005,Time2Eat - Mama Chicken,Agra,78.01160797,27.16083249,Agra Cantt,North Indian,Indian Rupees(Rs.),No,No,2,94,500,3.6
+3400021,Chokho Jeeman Marwari Jain Bhojanalya,Agra,77.99809167,27.19592778,Civil Lines,Rajasthani,Indian Rupees(Rs.),No,No,2,87,400,4
+3400017,Pinch Of Spice,Agra,78.00755278,27.201725,Civil Lines,"North Indian, Chinese, Mughlai",Indian Rupees(Rs.),No,No,3,177,1000,4.2
+3400325,MoMo Cafe,Agra,0,0,"Courtyard by Marriott Agra, Tajganj","North Indian, European",Indian Rupees(Rs.),No,No,4,45,2000,4
+3400059,Peshawri - ITC Mughal,Agra,78.044095,27.160934,"ITC Mughal, Tajganj","North Indian, Mughlai",Indian Rupees(Rs.),No,No,4,133,2500,4.3
+3400060,Taj Bano - ITC Mughal,Agra,78.044095,27.160934,"ITC Mughal, Tajganj",Mughlai,Indian Rupees(Rs.),No,No,4,41,2500,4
+3400348,G Thal,Agra,0,0,Khandari,"Rajasthani, Gujarati, Mughlai",Indian Rupees(Rs.),No,No,3,59,800,3.6
+3400072,Dawat-e-Nawab - Radisson Blu,Agra,78.057044,27.163303,"Radisson Blu, Tajganj","North Indian, Mughlai",Indian Rupees(Rs.),No,No,4,46,3600,3.8
+3400073,The Latitude - Radisson Blu,Agra,78.057044,27.163303,"Radisson Blu, Tajganj","North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,1,103,0,3.9
+3400019,Dasaprakash Restaurant,Agra,78.01505278,27.16510833,Rakabganj,"South Indian, Desserts",Indian Rupees(Rs.),No,No,2,121,550,4.1
+3400033,The Charcoal Chimney,Agra,78.04299,27.159795,Tajganj,"North Indian, Chinese, Continental, Mughlai",Indian Rupees(Rs.),No,No,3,70,1100,3.4
+3400346,Sheroes Hangout,Agra,78.040165,27.16185,Tajganj,"Cafe, North Indian, Chinese",Indian Rupees(Rs.),No,No,1,77,0,4.9
+3400350,Bon Barbecue,Agra,0,0,Tajganj,"North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,4,57,1500,3.8
+3400391,Chapter 1 Cafe,Agra,0,0,Tajganj,"Cafe, Italian, Mexican, North Indian, Continental",Indian Rupees(Rs.),No,No,1,98,0,3.9
+3400016,Pind Balluchi,Agra,78.04725,27.15777222,Tajganj,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,3,175,900,3.7
+3400105,Pizza Hut,Agra,78.03471389,27.16169444,Tajganj,"Italian, Pizza",Indian Rupees(Rs.),No,No,2,134,700,4.4
+3400326,Tea'se Me - Rooftop Tea Boutique,Agra,0,0,Tajganj,"Chinese, Italian, Continental, North Indian",Indian Rupees(Rs.),No,No,3,166,1000,4.2
+3400392,Thaaliwala,Agra,78.045359,27.158822,Tajganj,"North Indian, Fast Food",Indian Rupees(Rs.),No,No,2,168,700,4.1
+111895,650 - The Global Kitchen,Ahmedabad,72.5375741,23.01045111,Ambavadi,"Chinese, Italian, North Indian, Mexican, Mediterranean, Thai",Indian Rupees(Rs.),No,No,3,1582,900,4.2
+110502,Patang - The Revolving Restaurant,Ahmedabad,72.572009,23.0261651,Ashram Road,"Continental, Chinese, North Indian",Indian Rupees(Rs.),No,No,4,1315,1800,3.7
+18396250,Huber & Holly,Ahmedabad,72.5123947,23.0383109,Bodakdev,"Ice Cream, Desserts, Continental",Indian Rupees(Rs.),No,Yes,1,217,300,4.5
+113702,@Mango,Ahmedabad,72.5017644,23.0401633,Bodakdev,"North Indian, Continental, Mexican, Italian",Indian Rupees(Rs.),No,No,3,769,800,4.1
+113433,Fozzie's Pizzaiolo,Ahmedabad,72.5098065,23.0330688,Bodakdev,"Pizza, Italian, Beverages, Desserts",Indian Rupees(Rs.),No,Yes,3,731,900,4.3
+18438909,La Pino'z Pizza,Ahmedabad,72.5124872,23.0382314,Bodakdev,"Pizza, Italian",Indian Rupees(Rs.),No,Yes,2,113,500,4.4
+18143128,Mocha,Ahmedabad,72.511307,23.0318508,Bodakdev,"Cafe, Continental, Desserts",Indian Rupees(Rs.),No,Yes,3,944,1000,4.4
+18438944,Blue -  Rooftop Cafe Restaurant Bistro,Ahmedabad,72.5570374,23.0290619,C G Road,"North Indian, Cafe, Italian, Mexican, Continental",Indian Rupees(Rs.),No,Yes,3,63,1000,3.8
+110436,MoMo CafÌ© - Courtyard By Marriott,Ahmedabad,72.5115815,23.027929,"Courtyard By Marriott, Satellite","North Indian, South Indian, Asian, Continental",Indian Rupees(Rs.),No,No,3,375,1400,3.6
+18385201,Cryo Lab,Ahmedabad,72.55998429,23.02874796,Ellis Bridge,"Desserts, Ice Cream",Indian Rupees(Rs.),No,No,2,166,350,4.6
+110395,Swati Snacks,Ahmedabad,72.55903311,23.02443364,Ellis Bridge,"Fast Food, Street Food, South Indian",Indian Rupees(Rs.),No,No,2,697,450,4.4
+18335583,Brick Kitchen,Ahmedabad,72.5316389,23.0643038,Ghatlodia,"North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,3,325,900,4.3
+110237,Kabir Restaurant,Ahmedabad,72.5239649,23.04850469,Gurukul,"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",Indian Rupees(Rs.),No,Yes,2,432,600,3.8
+113537,Puffizza,Ahmedabad,72.53774978,23.04619268,Gurukul,"Italian, Fast Food",Indian Rupees(Rs.),No,Yes,2,744,700,4.3
+113703,Cafe Alfresco,Ahmedabad,72.5498285,23.0437235,Navrangpura,"Cafe, Beverages, Desserts, Pizza",Indian Rupees(Rs.),No,Yes,2,404,700,4
+18385186,The Cafe Baraco,Ahmedabad,72.5504755,23.0443367,Navrangpura,"Cafe, Italian",Indian Rupees(Rs.),No,Yes,2,317,600,4.4
+113325,Nini's Kitchen,Ahmedabad,72.5072645,23.0117723,Prahlad Nagar,"North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",Indian Rupees(Rs.),No,Yes,3,1138,950,4.5
+111826,Yanki Sizzlers,Ahmedabad,72.5181257,23.0534466,Thaltej,"Continental, Italian, Chinese",Indian Rupees(Rs.),No,No,3,1041,1200,4.1
+110516,The Garden Cafe - The Fern,Ahmedabad,72.5222172,23.0640914,"The Fern, Sola","North Indian, Italian, Asian, South Indian",Indian Rupees(Rs.),No,No,3,192,1200,4.1
+18371341,Mazzo,Ahmedabad,72.5281083,23.0418026,Vastrapur,"Cafe, American, Continental, Armenian, Fast Food",Indian Rupees(Rs.),No,Yes,2,166,550,3.9
+113570,Turquoise Villa,Ahmedabad,72.5434513,23.0285142,Vastrapur,Continental,Indian Rupees(Rs.),No,No,3,535,1200,4
+2400020,Aryan Family's Delight,Allahabad,81.834502,25.454648,Civil Lines,"North Indian, South Indian, Fast Food",Indian Rupees(Rs.),No,No,3,57,500,3.4
+2400148,Bean Here,Allahabad,81.83316667,25.45343611,Civil Lines,"Cafe, Fast Food",Indian Rupees(Rs.),No,No,2,76,350,3.3
+2400019,Bikanerwala,Allahabad,81.832616,25.451517,Civil Lines,"North Indian, Street Food, Fast Food",Indian Rupees(Rs.),No,No,3,51,500,3.2
+2400193,Dewsis,Allahabad,0,0,Civil Lines,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,99,600,3.4
+2400027,Friends Forever,Allahabad,81.835585,25.457687,Civil Lines,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,83,600,3.4
+17960073,Hotel Ravisha Continental,Allahabad,0,0,Civil Lines,"North Indian, South Indian, Chinese",Indian Rupees(Rs.),No,No,3,18,600,3.4
+2400119,KFC,Allahabad,81.839744,25.449659,Civil Lines,"American, Fast Food",Indian Rupees(Rs.),No,No,3,58,500,3.4
+2400014,McDonald's,Allahabad,81.834279,25.450329,Civil Lines,Fast Food,Indian Rupees(Rs.),No,No,2,53,400,3.3
+2400403,Pind Balluchi,Allahabad,0,0,Civil Lines,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,3,6,800,3.2
+2400349,Pizza Hut,Allahabad,0,0,Civil Lines,"Italian, Pizza",Indian Rupees(Rs.),No,No,3,35,700,3.4
+2400279,Subway,Allahabad,0,0,Civil Lines,"Fast Food, American, Salad, Healthy Food",Indian Rupees(Rs.),No,No,2,32,400,3.4
+2400017,Tandoor Restaurant,Allahabad,81.860187,25.443994,Civil Lines,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,151,500,3.2
+18317988,The BrewMaster,Allahabad,81.83279631,25.45164569,Civil Lines,"North Indian, Chinese, Italian",Indian Rupees(Rs.),No,No,1,49,0,3.3
+2400144,The Tamarind Tree,Allahabad,81.834841,25.459775,Civil Lines,"South Indian, Chinese",Indian Rupees(Rs.),No,No,3,106,500,3.4
+2400195,Cafe El Chico,Allahabad,81.83616667,25.44987222,Civil Lines,"Continental, Italian",Indian Rupees(Rs.),No,No,4,59,1000,3.6
+2400052,Eat On,Allahabad,81.834236,25.450377,Civil Lines,North Indian,Indian Rupees(Rs.),No,No,1,105,200,3.7
+2400016,Hot Stuff,Allahabad,81.841889,25.45235,Civil Lines,"North Indian, Fast Food",Indian Rupees(Rs.),No,No,3,105,500,3.5
+2400293,Paradise,Allahabad,81.83168056,25.45031667,Civil Lines,"Desserts, Fast Food",Indian Rupees(Rs.),No,No,3,57,500,3.6
+2400009,Sagar Ratna,Allahabad,81.859682,25.457116,Tagore Town,"South Indian, North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,2,134,400,3.5
+2400010,Moti Mahal Delux,Allahabad,81.834492,25.454697,"Vinayak City Centre Mall, Civil Lines","Mughlai, North Indian, Chinese",Indian Rupees(Rs.),No,No,3,58,800,3.3
+2200011,Makhan Fish and Chicken Corner,Amritsar,74.884359,31.64362,Basant Nagar,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,345,700,3.4
+2200078,Charming Chicken,Amritsar,74.884384,31.644532,Basant Nagar,North Indian,Indian Rupees(Rs.),No,No,1,151,300,3.9
+18204507,Ahuja Milk Bhandar,Amritsar,0,0,Hathi Gate,Beverages,Indian Rupees(Rs.),No,No,1,52,100,4
+2200030,Crystal Restaurant,Amritsar,74.875878,31.635658,INA Colony,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,3,122,800,3.4
+2200201,Brijwasi Chat Bhandar,Amritsar,74.87575556,31.63488333,INA Colony,Street Food,Indian Rupees(Rs.),No,No,1,56,150,3.6
+2200067,Bubby Fish & Chicken Corner,Amritsar,74.875828,31.635671,INA Colony,North Indian,Indian Rupees(Rs.),No,No,1,91,300,3.5
+2200358,Bon Gateau,Amritsar,0,0,Ranjit Avenue,"Cafe, Bakery, Fast Food",Indian Rupees(Rs.),No,No,2,26,500,3.4
+2200001,The Yellow Chilli,Amritsar,74.86276111,31.65558889,Ranjit Avenue,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,3,98,1200,3.4
+2200033,La Roma Pizzeria,Amritsar,74.86299167,31.65044167,Ranjit Avenue,"Fast Food, Italian",Indian Rupees(Rs.),No,No,2,111,400,3.5
+2200283,Sakhis Watz Kukin,Amritsar,74.8649101,31.6466891,Ranjit Avenue,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,51,700,3.6
+2200045,The Kulcha Land,Amritsar,74.86416667,31.65319167,Ranjit Avenue,"North Indian, Street Food",Indian Rupees(Rs.),No,No,1,206,200,3.9
+2200149,Shudh Restaurant,Amritsar,74.87981389,31.62404722,Town Hall,"North Indian, South Indian, Chinese, Fast Food",Indian Rupees(Rs.),No,No,2,44,600,3.4
+2200043,Bade Bhai Ka Brothers' Dhaba,Amritsar,74.87461944,31.62394722,Town Hall,"North Indian, Fast Food",Indian Rupees(Rs.),No,No,2,94,500,3.7
+2200044,Bharawan Da Dhaba,Amritsar,74.87833333,31.62615278,Town Hall,"North Indian, Fast Food",Indian Rupees(Rs.),No,No,2,461,500,3.5
+2200132,Brothers Dhaba,Amritsar,74.877666,31.625981,Town Hall,North Indian,Indian Rupees(Rs.),No,No,2,276,500,3.8
+2200236,Brothers' Amritsari Dhaba,Amritsar,74.87957778,31.62261111,Town Hall,North Indian,Indian Rupees(Rs.),No,No,2,71,400,3.8
+2200175,Gurdas Ram Jalebi Wala,Amritsar,0,0,Town Hall,Mithai,Indian Rupees(Rs.),No,No,1,104,100,4.1
+2200000,Kesar Da Dhabha,Amritsar,74.873005,31.624386,Town Hall,North Indian,Indian Rupees(Rs.),No,No,2,878,500,4.1
+2200055,Beera Chicken Corner,Amritsar,74.883997,31.641991,White Avenue,North Indian,Indian Rupees(Rs.),No,No,2,192,500,3.8
+2200034,Surjit Food Plaza,Amritsar,74.877002,31.644818,White Avenue,North Indian,Indian Rupees(Rs.),No,No,3,96,1000,3.5
+2200153,Kanha Sweets,Amritsar,0,0,White Avenue,Fast Food,Indian Rupees(Rs.),No,No,1,140,150,4.1
+2500023,Kream N Krunch,Aurangabad,75.34601667,19.87621944,Akashwani,"North Indian, Chinese, Continental, Italian",Indian Rupees(Rs.),No,No,3,240,800,3.6
+2500076,Balbeer's Kitchen & Bar,Aurangabad,0,0,Chicalthana,"Italian, Continental, Chinese, North Indian",Indian Rupees(Rs.),No,No,3,65,850,3.3
+2500054,Angeethi Restaurant,Aurangabad,75.35394167,19.87473333,CIDCO,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,63,600,3.3
+2500134,Domino's Pizza,Aurangabad,75.340775,19.87610556,CIDCO,Pizza,Indian Rupees(Rs.),No,No,2,19,700,3.1
+2500069,Hotel Laadli,Aurangabad,75.3671268,19.8755223,CIDCO,"North Indian, South Indian",Indian Rupees(Rs.),No,No,2,46,350,3.4
+2500256,Indiana Veg Restaurant,Aurangabad,75.360232,19.874449,CIDCO,"South Indian, North Indian, Chinese, Fast Food",Indian Rupees(Rs.),No,No,2,75,450,3.4
+2500024,Madhuban Restaurant - Welcome Hotel Rama International,Aurangabad,75.358888,19.875908,CIDCO,"North Indian, Chinese, Continental, Italian, Mexican",Indian Rupees(Rs.),No,No,4,94,1800,3.4
+2500075,Mauj Restaurant,Aurangabad,75.36479167,19.87642778,CIDCO,"Italian, Fast Food, North Indian, Chinese",Indian Rupees(Rs.),No,No,2,47,500,3.3
+2500029,Naivedya,Aurangabad,75.3684187,19.874103,CIDCO,North Indian,Indian Rupees(Rs.),No,No,2,71,500,3.4
+2500079,d' Curry House,Aurangabad,75.316722,19.875337,"Hotel Green Olive, Nirala Bazar","Continental, Chinese, Biryani, North Indian",Indian Rupees(Rs.),No,No,3,73,1000,3.6
+2500343,Mokoholic Juice Bar,Aurangabad,0,0,Mondha,"Juices, Desserts",Indian Rupees(Rs.),No,No,1,21,300,3.5
+2500052,Ashoka's Veg Restaurant,Aurangabad,75.32340278,19.87963056,Nirala Bazar,"South Indian, Chinese, North Indian",Indian Rupees(Rs.),No,No,2,46,400,3.3
+2500062,Kareem's Fine Dining,Aurangabad,75.32350278,19.88025556,Nirala Bazar,"Mughlai, Biryani",Indian Rupees(Rs.),No,No,2,45,700,3.3
+2500056,That Baat,Aurangabad,75.322405,19.875016,Nirala Bazar,Maharashtrian,Indian Rupees(Rs.),No,No,2,34,450,3.4
+2500030,Bhoj Restaurant,Aurangabad,75.317475,19.87802778,Nirala Bazar,North Indian,Indian Rupees(Rs.),No,No,2,89,450,3.7
+2500390,Downside Up,Aurangabad,0,0,Nyay Nagar,"Cafe, Mughlai, North Indian",Indian Rupees(Rs.),No,No,2,8,400,3.2
+2500007,Kareem's Kabab & Biryani,Aurangabad,75.37235278,19.87699444,"Prozone Mall, Chicalthana",Mughlai,Indian Rupees(Rs.),No,No,2,39,650,3.4
+2500123,Great Sagar Restaurant,Aurangabad,75.321461,19.888716,Shahgunj,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,2,74,600,3.3
+2500122,Kailash Restaurant,Aurangabad,75.31889444,19.86696944,Usmanpura,"North Indian, Chinese, South Indian, Fast Food",Indian Rupees(Rs.),No,No,2,76,450,3.3
+2500346,Yalla Yalla,Aurangabad,0,0,Usmanpura,"North Indian, Hyderabadi",Indian Rupees(Rs.),No,No,2,71,500,3.3
+50943,Sultans of Spice,Bangalore,77.61542793,12.93328392,"BluPetal Hotel, Koramangala","North Indian, Mughlai",Indian Rupees(Rs.),Yes,Yes,3,2416,1300,4.1
+58268,The Fatty Bao - Asian Gastro Bar,Bangalore,77.64539558,12.97022064,Indiranagar,Asian,Indian Rupees(Rs.),Yes,Yes,4,2369,2400,4.7
+51705,Toit,Bangalore,77.64070876,12.9791658,Indiranagar,"Italian, American, Pizza",Indian Rupees(Rs.),No,No,4,10934,2000,4.8
+18162866,Three Dots & A Dash,Bangalore,77.64048882,12.98041024,Indiranagar,"European, Continental",Indian Rupees(Rs.),Yes,No,3,1354,1300,3.9
+18407918,Bombay Brasserie,Bangalore,77.645748,12.970324,Indiranagar,Modern Indian,Indian Rupees(Rs.),No,Yes,3,231,1500,4.2
+56464,Glen's Bakehouse,Bangalore,77.64062494,12.97909556,Indiranagar,"Bakery, Desserts, Cafe",Indian Rupees(Rs.),No,No,2,3533,800,4
+18221572,Onesta,Bangalore,77.64368467,12.97845292,Indiranagar,"Pizza, Cafe, Italian",Indian Rupees(Rs.),No,Yes,2,1413,600,4.3
+18359919,Onesta,Bangalore,77.59679094,12.90622878,JP Nagar,"Pizza, Cafe, Italian",Indian Rupees(Rs.),No,No,2,781,600,4.6
+18439634,ECHOES Koramangala,Bangalore,77.615797,12.934179,Koramangala 5th Block,"Continental, American, Italian, North Indian, Chinese, Cafe",Indian Rupees(Rs.),No,No,2,276,950,4.7
+51040,Truffles,Bangalore,77.61429269,12.93329764,Koramangala 5th Block,"American, Burger, Cafe",Indian Rupees(Rs.),No,Yes,2,9667,800,4.7
+54162,The Black Pearl,Bangalore,77.61615515,12.93436454,Koramangala 5th Block,"North Indian, European, Mediterranean",Indian Rupees(Rs.),Yes,No,3,5385,1400,4.1
+18305628,Eat Street,Bangalore,77.625999,12.939496,Koramangala 6th Block,"North Indian, Chinese, Italian, Street Food, Desserts",Indian Rupees(Rs.),No,Yes,1,753,400,4.3
+18385443,Koramangala Social,Bangalore,77.61413042,12.93566181,Koramangala 7th Block,"Continental, American",Indian Rupees(Rs.),No,No,3,1288,1500,4.5
+56618,AB's - Absolute Barbecues,Bangalore,77.6993861,12.94993396,Marathahalli,"European, Mediterranean, North Indian",Indian Rupees(Rs.),No,No,3,6907,1400,4.6
+18353121,Flechazo,Bangalore,77.696664,12.97537691,Marathahalli,"Asian, Mediterranean, North Indian",Indian Rupees(Rs.),Yes,No,3,983,1200,4.4
+18366652,Onesta,Bangalore,77.5709967,13.0291977,New BEL Road,"Pizza, Cafe, Italian",Indian Rupees(Rs.),No,No,2,627,600,4.6
+18430785,Communiti,Bangalore,77.60817859,12.97253153,Residency Road,Continental,Indian Rupees(Rs.),No,No,3,334,1200,4.2
+58882,Big Brewsky,Bangalore,77.68323686,12.91304096,Sarjapur Road,"Finger Food, North Indian, Italian, Continental, Thai, South Indian",Indian Rupees(Rs.),Yes,Yes,3,5705,1800,4.5
+18422898,Hoot,Bangalore,77.6784,12.914264,Sarjapur Road,"Continental, Italian, North Indian",Indian Rupees(Rs.),No,No,3,405,1400,3.9
+18339874,Farzi Cafe,Bangalore,77.5960137,12.9721612,UB City,Modern Indian,Indian Rupees(Rs.),No,No,3,754,1500,4.4
+2600472,Black N White Cafe,Bhopal,77.419399,23.211529,Arera Colony,"Cafe, Chinese, North Indian",Indian Rupees(Rs.),No,No,1,51,200,3.3
+2600514,Maybe There,Bhopal,0,0,Arera Colony,Cafe,Indian Rupees(Rs.),No,No,2,63,600,3.4
+2600109,Sagar Gaire Fast Food,Bhopal,77.435361,23.214294,Arera Colony,Fast Food,Indian Rupees(Rs.),No,No,1,427,250,4.9
+2600311,The Kasbah,Bhopal,77.41722744,23.18499152,Arera Colony,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,126,700,3.9
+2600008,Bake N Shake,Bhopal,77.434976,23.214459,Arera Colony,Fast Food,Indian Rupees(Rs.),No,No,2,223,500,4.2
+2600031,10 Downing Street,Bhopal,77.429989,23.232357,"DB City, Maharana Pratap Nagar","North Indian, Chinese",Indian Rupees(Rs.),No,No,3,257,1000,4
+2600250,Chi Kitchen,Bhopal,0,0,"DB City, Maharana Pratap Nagar",Chinese,Indian Rupees(Rs.),No,No,3,103,1000,4
+2600025,Pizza Hut,Bhopal,77.429845,23.232537,"DB City, Maharana Pratap Nagar",Pizza,Indian Rupees(Rs.),No,No,2,118,650,4.1
+2600494,Kafe Kulture,Bhopal,0,0,Gulmohar Colony,"Cafe, Fast Food",Indian Rupees(Rs.),No,No,2,98,600,3.8
+18108352,Violet Hour,Bhopal,77.3796051,23.26626099,Kohefiza,Bakery,Indian Rupees(Rs.),No,No,2,33,500,3.8
+2600079,Bapu Ki Kutia,Bhopal,77.433571,23.233219,Maharana Pratap Nagar,"North Indian, Chinese, South Indian, Fast Food",Indian Rupees(Rs.),No,No,2,175,550,3.5
+2600340,Da pizzeria,Bhopal,0,0,Maharana Pratap Nagar,"Pizza, Italian, Fast Food",Indian Rupees(Rs.),No,No,2,111,500,3.6
+18461339,Papa Mexicano,Bhopal,77.43702042,23.23079116,Maharana Pratap Nagar,"Fast Food, Mexican, Tex-Mex",Indian Rupees(Rs.),No,No,2,20,350,3.6
+2600010,Bake N Shake,Bhopal,0,0,Maharana Pratap Nagar,Fast Food,Indian Rupees(Rs.),No,No,2,103,500,4.1
+2600230,Manohar Dairy And Restaurant,Bhopal,77.434007,23.234249,Maharana Pratap Nagar,"North Indian, South Indian, Street Food, Bakery",Indian Rupees(Rs.),No,No,2,243,400,4.4
+2600003,Manohar Dairy And Restaurant,Bhopal,77.408236,23.264015,Peer Gate Area,"North Indian, South Indian, Street Food, Bakery",Indian Rupees(Rs.),No,No,2,238,400,4.1
+2600303,Kebabsville - Sayaji Hotel,Bhopal,77.373573,23.218998,Sayaji Hotel,North Indian,Indian Rupees(Rs.),No,No,4,128,1800,4.3
+2600180,Indian Coffee House,Bhopal,77.401663,23.234631,TT Nagar,South Indian,Indian Rupees(Rs.),No,No,2,161,500,3.9
+2600393,The Urban Socialite,Bhopal,0,0,TT Nagar,"Italian, Mexican, Chinese",Indian Rupees(Rs.),No,No,3,79,900,3.8
+2600007,Bake N Shake,Bhopal,77.398886,23.235123,TT Nagar,Fast Food,Indian Rupees(Rs.),No,No,2,120,500,4.3
+2900587,Tyre Patty,Bhubaneshwar,0,0,"BMC Bhawani Mall, Sahid Nagar",Cafe,Indian Rupees(Rs.),No,No,2,289,500,3.9
+2900354,Silver Streak,Bhubaneshwar,85.846838,20.286333,"BMC Bhawani Mall, Sahid Nagar",Chinese,Indian Rupees(Rs.),No,No,2,379,550,4.1
+2900633,Barbeque Nation,Bhubaneshwar,0,0,Chandrasekharpur,"Mediterranean, Asian, Continental, North Indian, Arabian",Indian Rupees(Rs.),No,No,3,154,1200,4.6
+18408676,Central Perk 7,Bhubaneshwar,85.81781287,20.32553933,Chandrasekharpur,"Cafe, Charcoal Grill, Steak",Indian Rupees(Rs.),No,No,2,145,600,4.5
+2900234,The Chicken Dinesty,Bhubaneshwar,85.81856667,20.32634444,Chandrasekharpur,"Fast Food, North Indian, Chinese",Indian Rupees(Rs.),No,No,2,247,500,3.9
+2900550,Taste Of China,Bhubaneshwar,0,0,Chandrasekharpur,Chinese,Indian Rupees(Rs.),No,No,2,145,500,4
+18362677,Michael's Kitchen,Bhubaneshwar,85.83394811,20.31149633,Gajapati Nagar,"North Indian, Asian, European",Indian Rupees(Rs.),No,No,2,118,850,3.7
+2900044,Mamma Mia - Mayfair Lagoon,Bhubaneshwar,85.819178,20.301785,"Mayfair Lagoon, Jayadev Vihar","Cafe, Italian, Mexican, Bakery",Indian Rupees(Rs.),No,No,3,256,1400,4.1
+2900469,99 North Restaurant,Bhubaneshwar,85.80823611,20.34306944,Patia,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,173,450,3.6
+2900219,Adda,Bhubaneshwar,85.82272222,20.353675,Patia,"North Indian, Chinese, Mexican, Beverages",Indian Rupees(Rs.),No,No,2,424,600,3.8
+2900473,Chill Ummm,Bhubaneshwar,85.825257,20.35324774,Patia,"Chinese, North Indian, Cafe",Indian Rupees(Rs.),No,No,1,338,450,3.7
+2900020,Lal Qila,Bhubaneshwar,85.82685,20.35299167,Patia,"Mughlai, Chinese, North Indian",Indian Rupees(Rs.),No,No,2,228,500,3.7
+2900562,Richard's Kitchen & Coffee Bar,Bhubaneshwar,85.82599327,20.35343289,Patia,"Cafe, Chinese, Fast Food, Seafood",Indian Rupees(Rs.),No,No,1,253,450,3.8
+18413814,Aangan Horizon,Bhubaneshwar,85.82289287,20.34347604,Patia,"North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,2,90,900,4
+18235390,Brewberrys The Coffee Bar,Bhubaneshwar,85.81112333,20.34314407,Patia,Cafe,Indian Rupees(Rs.),No,No,1,197,400,4
+2900640,Chai Break,Bhubaneshwar,0,0,Patia,"Italian, Cafe, Chinese, Continental",Indian Rupees(Rs.),No,No,2,69,800,4.3
+18271459,JUGAAD JN.,Bhubaneshwar,85.82225987,20.35348061,Patia,"North Indian, Rajasthani",Indian Rupees(Rs.),No,No,1,199,300,4.1
+18377283,Cha cTea,Bhubaneshwar,85.84295925,20.29322917,Sahid Nagar,"Cafe, Tea",Indian Rupees(Rs.),No,No,2,56,500,3.8
+18408600,Food Fever,Bhubaneshwar,85.84516996,20.29575519,Sahid Nagar,"Chinese, North Indian",Indian Rupees(Rs.),No,No,2,49,900,4.2
+2900012,Mainland China,Bhubaneshwar,85.818494,20.292363,"The Crown, Nayapalli",Chinese,Indian Rupees(Rs.),No,No,3,345,1500,4.3
+18436042,Eram Rooftop,Bhubaneshwar,85.82669624,20.28398889,Unit 4,"Asian, Continental",Indian Rupees(Rs.),No,No,1,89,400,3.5
+122003,The Night Factory,Chandigarh,76.801234,30.71005476,Chandigarh Industrial Area,"North Indian, Chinese, Continental, Pizza",Indian Rupees(Rs.),No,Yes,2,665,850,3.7
+121552,Brooklyn Central,Chandigarh,76.8009555,30.7050693,"Elante Mall, Chandigarh Industrial Area","American, Cafe",Indian Rupees(Rs.),No,No,3,676,1600,4.2
+121214,Chili's,Chandigarh,76.8007752,30.7056682,"Elante Mall, Chandigarh Industrial Area","Mexican, American, Italian",Indian Rupees(Rs.),No,Yes,3,970,1400,4.3
+121553,Kylin Experience,Chandigarh,76.80064,30.7056102,"Elante Mall, Chandigarh Industrial Area","Japanese, Chinese, Thai, Malaysian, Burmese, Asian",Indian Rupees(Rs.),No,No,3,300,1600,4.1
+121312,Mocha,Chandigarh,76.8008653,30.7051482,"Elante Mall, Chandigarh Industrial Area","Continental, Italian, Thai, Finger Food",Indian Rupees(Rs.),No,No,3,428,1400,4
+121335,Pirates of Grill,Chandigarh,76.8009555,30.705775,"Elante Mall, Chandigarh Industrial Area","North Indian, Continental, Asian",Indian Rupees(Rs.),No,No,3,1022,1200,4
+120014,Barbeque Nation,Chandigarh,76.8051917,30.7257045,Sector 26,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,1450,1300,4.5
+123125,TGI Friday's,Chandigarh,76.8063634,30.7249431,Sector 26,"American, Tex-Mex",Indian Rupees(Rs.),No,No,3,228,1800,4.3
+120221,Pal Dhaba,Chandigarh,76.801316,30.7194841,Sector 28,North Indian,Indian Rupees(Rs.),No,No,2,982,700,3.8
+122064,Midnight Chef,Chandigarh,76.76560555,30.72476574,Sector 35,"North Indian, Chinese, Continental, Italian, Burger",Indian Rupees(Rs.),No,Yes,3,502,1000,3.4
+120203,Nik Baker's,Chandigarh,76.76055595,30.72152328,Sector 35,"Bakery, Desserts, Cafe",Indian Rupees(Rs.),No,No,2,698,650,4.1
+120219,OvenFresh,Chandigarh,76.7606106,30.7216086,Sector 35,"Cafe, Bakery",Indian Rupees(Rs.),No,No,2,397,650,4.1
+121425,Super Donuts,Chandigarh,76.76028337,30.72137975,Sector 35,"Burger, Fast Food, Desserts, Beverages",Indian Rupees(Rs.),No,Yes,1,265,450,4
+123010,Taco Bell,Chandigarh,76.75984483,30.72114167,Sector 35,"Mexican, Fast Food",Indian Rupees(Rs.),No,Yes,2,252,600,4.2
+123294,Karim's,Chandigarh,76.8009793,30.7306181,Sector 7,"Mughlai, North Indian",Indian Rupees(Rs.),No,No,2,86,800,3.3
+121120,Virgin Courtyard,Chandigarh,76.7976205,30.7334795,Sector 7,Italian,Indian Rupees(Rs.),No,No,4,817,2200,4.4
+122940,Burgrill,Chandigarh,76.7978909,30.740827,Sector 8,"Burger, Fast Food",Indian Rupees(Rs.),No,Yes,2,249,500,4.5
+122830,Uncle Jack's,Chandigarh,76.7972148,30.7408896,Sector 8,"Desserts, American",Indian Rupees(Rs.),No,No,2,356,600,4
+69024,That Madras Place,Chennai,80.250744,13.0058006,Adyar,"European, Italian, Desserts",Indian Rupees(Rs.),Yes,Yes,2,1810,800,4.2
+72475,Haunted,Chennai,80.2206723,13.0864385,Anna Nagar East,"North Indian, Chinese, Arabian",Indian Rupees(Rs.),Yes,Yes,2,519,800,3.8
+70431,Pantry d'or,Chennai,80.2191037,13.0918088,Anna Nagar East,"Continental, Cafe, Italian, Desserts",Indian Rupees(Rs.),Yes,Yes,2,1504,750,4.4
+71443,Palmshore,Chennai,80.20881157,13.02977985,Ashok Nagar,"North Indian, Mughlai, Chinese, South Indian",Indian Rupees(Rs.),Yes,Yes,2,841,850,4.2
+73088,Chili's,Chennai,80.264151,13.058616,"Express Avenue Mall,  Royapettah","Mexican, American, Tex-Mex, Burger",Indian Rupees(Rs.),Yes,Yes,3,1262,1700,4.8
+18423075,Writer's Cafe,Chennai,80.25722075,13.05434714,Gopalapuram,"Cafe, European",Indian Rupees(Rs.),No,Yes,1,191,450,4.2
+70890,Fusilli Reasons,Chennai,80.24851944,13.08187778,Kilpauk,Italian,Indian Rupees(Rs.),No,No,1,1510,350,4.6
+71492,Ciclo Cafe,Chennai,80.24243889,13.02239444,Kotturpuram,"Cafe, Continental",Indian Rupees(Rs.),No,No,3,1004,1100,4.1
+70092,Kaidi Kitchen,Chennai,80.26147,13.044694,Mylapore,"Italian, Mexican, Chinese, Thai, North Indian",Indian Rupees(Rs.),Yes,Yes,3,1820,1500,4
+70393,Bombay Brasserie,Chennai,80.251865,13.066762,Nungambakkam,North Indian,Indian Rupees(Rs.),Yes,Yes,3,1753,1200,4.6
+70894,Maplai,Chennai,80.23644167,13.06418056,Nungambakkam,"South Indian, Chettinad",Indian Rupees(Rs.),Yes,No,3,1714,1000,4.2
+73279,Paradise,Chennai,80.24998214,12.97279291,Perungudi,"Biryani, North Indian",Indian Rupees(Rs.),No,Yes,2,1317,900,3.8
+69951,L'amandier,Chennai,80.25479067,13.02701773,RA Puram,"European, Cafe, Italian",Indian Rupees(Rs.),Yes,Yes,3,1607,1200,4.3
+72497,Palmshore,Chennai,80.17456822,13.02627908,Ramapuram,"North Indian, Mughlai, Chinese, South Indian",Indian Rupees(Rs.),Yes,Yes,2,645,850,4.4
+65413,Palmshore,Chennai,80.2752348,13.02628637,Santhome,"North Indian, Mughlai, Chinese, South Indian",Indian Rupees(Rs.),Yes,Yes,2,742,850,4.3
+70497,Basil With A Twist,Chennai,80.24226844,13.04964535,T. Nagar,"Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean",Indian Rupees(Rs.),Yes,Yes,3,1210,1500,4.5
+65055,Barbeque Nation,Chennai,80.23311,13.045479,T. Nagar,"North Indian, Continental",Indian Rupees(Rs.),No,No,4,3848,2000,4.4
+18384227,AB's - Absolute Barbecues,Chennai,80.231598,12.981615,Velachery,"North Indian, European, Mediterranean",Indian Rupees(Rs.),No,No,3,859,1600,4.9
+72604,Coal Barbecues,Chennai,80.21811381,12.98604688,Velachery,"North Indian, Mediterranean, Asian, Arabian",Indian Rupees(Rs.),No,No,3,1267,1400,4.6
+66457,Pind,Chennai,80.221898,12.975996,Velachery,"North Indian, Chinese",Indian Rupees(Rs.),Yes,No,2,2272,900,4
+18260777,Kuchi n Kream,Coimbatore,76.9720757,11.01629845,Gandhipuram,"Cafe, Continental, Fast Food",Indian Rupees(Rs.),No,Yes,3,202,800,4.6
+3000107,Haribhavanam Hotel,Coimbatore,76.995667,11.022477,Peelamedu,"South Indian, Chettinad, North Indian",Indian Rupees(Rs.),No,No,2,318,600,3.9
+3000132,Kites Cafe,Coimbatore,77.015393,11.025083,Peelamedu,Cafe,Indian Rupees(Rs.),No,Yes,2,124,400,3.8
+3000122,Zucca Pizzeria,Coimbatore,77.00700302,11.02483917,Peelamedu,Pizza,Indian Rupees(Rs.),No,Yes,2,274,600,3.5
+3001032,Burger Ka Baap,Coimbatore,76.99959444,11.02216944,Peelamedu,Fast Food,Indian Rupees(Rs.),No,No,2,147,500,4.3
+3000021,The Cascade Restaurant,Coimbatore,76.99501667,11.02127778,Peelamedu,Chinese,Indian Rupees(Rs.),No,Yes,3,243,1200,4.1
+18434000,24 Plus Cafe & Restaurant,Coimbatore,76.971082,10.96185,Podanur,"Continental, Fast Food, Desserts, Indian",Indian Rupees(Rs.),No,No,2,24,450,3.8
+3000195,Valarmathi Kongunaatu Samayal,Coimbatore,76.976268,11.001852,Race Course,"South Indian, Biryani",Indian Rupees(Rs.),No,No,2,380,350,4.5
+3000126,Bird On Tree,Coimbatore,76.98431119,11.00863836,Race Course,"Continental, Chinese, Thai, Malaysian, North Indian",Indian Rupees(Rs.),No,No,3,221,1200,3.8
+18280306,Tim's Bistro,Coimbatore,76.9754397,11.0030085,Race Course,"North Indian, Continental",Indian Rupees(Rs.),No,Yes,2,85,700,3.9
+3001489,Batlivala & Khanabhoy,Coimbatore,76.98624135,11.00175265,Race Course,"Parsi, North Indian",Indian Rupees(Rs.),No,No,3,40,1200,4.2
+3000770,Cafe Totaram,Coimbatore,76.98187642,11.00076241,Race Course,"Cafe, Fast Food",Indian Rupees(Rs.),No,Yes,2,132,600,4
+3000062,Cream Centre,Coimbatore,76.97649444,11.00366944,Race Course,"North Indian, Chinese, Italian, Mexican",Indian Rupees(Rs.),No,No,3,203,1000,4
+3000016,On The Go,Coimbatore,76.975525,11.00368056,Race Course,"Italian, North Indian, Desserts",Indian Rupees(Rs.),No,No,4,215,1500,4
+3000014,Sree Annapoorna,Coimbatore,76.95173611,11.00668611,RS Puram,"South Indian, North Indian, Chinese",Indian Rupees(Rs.),No,No,2,225,400,4.3
+3000001,That's Y Food,Coimbatore,76.95295,11.010375,RS Puram,"North Indian, Biryani",Indian Rupees(Rs.),No,No,3,299,1400,4.2
+3001321,CakeBee,Coimbatore,76.94465239,11.02611735,Saibaba Colony,"Bakery, Desserts",Indian Rupees(Rs.),No,Yes,2,200,350,4.9
+3000996,Yari,Coimbatore,76.940432,11.02091,Saibaba Colony,"North Indian, Chinese, Street Food",Indian Rupees(Rs.),No,No,2,221,700,4.2
+3001065,Cream Stone,Coimbatore,76.9983492,11.02229761,"SMS Hotel, Peelamedu","Desserts, Ice Cream",Indian Rupees(Rs.),No,No,1,161,300,4.3
+3000048,Barbeque Nation,Coimbatore,76.96330278,10.99413611,Town Hall,"North Indian, European, Mediterranean",Indian Rupees(Rs.),No,No,3,505,1400,4.4
+3500012,The Punjabi Essence Restaurant,Dehradun,0,0,Chukkuwala,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,102,800,3.6
+3500007,Tirupati Restaurant,Dehradun,0,0,Chukkuwala,"South Indian, North Indian, Chinese",Indian Rupees(Rs.),No,No,3,115,500,3.8
+3500017,Anandam,Dehradun,78.053162,30.335259,Hathibarkala Salwala,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",Indian Rupees(Rs.),No,No,3,141,650,3.9
+3500018,Town Table Restaurant,Dehradun,78.060221,30.340722,Hathibarkala Salwala,"North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,4,173,1000,3.9
+3500011,Kalsang Friends Corner,Dehradun,78.062543,30.346994,Hathibarkala Salwala,"Chinese, Thai, Tibetan",Indian Rupees(Rs.),No,No,3,406,750,4.2
+18416632,The Great Indian Pub,Dehradun,78.06802238,30.36128079,Jakhan,North Indian,Indian Rupees(Rs.),No,No,4,50,1500,4.9
+18279289,BMG - All Day Dining,Dehradun,78.06888981,30.36268594,Jakhan,"Chinese, North Indian, Fast Food",Indian Rupees(Rs.),No,No,1,63,0,4.3
+18408585,Punjab Grill,Dehradun,78.067079,30.359722,Jakhan,"Mughlai, North Indian",Indian Rupees(Rs.),No,No,4,98,1250,4
+3500059,TBistro,Dehradun,78.054222,30.332735,Karanpur,"North Indian, Chinese",Indian Rupees(Rs.),No,No,3,230,550,3.8
+3500081,Y Cafe & Restaurant,Dehradun,78.049117,30.328174,Karanpur,Cafe,Indian Rupees(Rs.),No,No,3,94,500,4
+17971273,Eddie's Patisserie,Dehradun,0,0,Krishna Nagar,Bakery,Indian Rupees(Rs.),No,No,2,64,350,4.1
+3500365,First Gear Cafe,Dehradun,0,0,Malsi,"Cafe, Chinese",Indian Rupees(Rs.),No,No,3,131,700,3.9
+3500013,Dunkin Donuts,Dehradun,78.070453,30.366322,"Pacific Mall, Jakhan","Burger, Desserts",Indian Rupees(Rs.),No,No,3,101,600,3.9
+3500024,Doon Darbar,Dehradun,78.04026667,30.31952778,Paltan Bazaar,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,3,121,600,3.9
+3500488,Razzmatazz,Dehradun,0,0,Race Course,Cafe,Indian Rupees(Rs.),No,No,2,39,400,3.9
+3500505,Barbeque Nation,Dehradun,78.061187,30.3425093,Rajpur,"North Indian, Mediterranean, Asian, Chinese",Indian Rupees(Rs.),No,No,4,66,1600,4.4
+3500010,Black Pepper Restaurant,Dehradun,78.046106,30.327968,Rajpur,"North Indian, Chinese",Indian Rupees(Rs.),No,No,4,175,1200,4
+3500414,Cafe Marigold,Dehradun,0,0,Rajpur,"Cafe, Chinese, Fast Food",Indian Rupees(Rs.),No,No,3,104,500,4.1
+18440677,Jalapenos,Dehradun,78.07715102,30.37220198,Rajpur,"Cafe, Mexican",Indian Rupees(Rs.),No,No,3,68,500,4.2
+3500484,Kalsang AMA Cafe,Dehradun,0,0,Rajpur,Cafe,Indian Rupees(Rs.),No,No,3,89,600,4.2
+301728,Desire Foods,Faridabad,77.3066401,28.4900591,Badarpur Border,"Chinese, Fast Food, Bakery",Indian Rupees(Rs.),No,No,1,4,250,2.9
+5992,Knight Rock,Faridabad,77.304776,28.4901567,Badarpur Border,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,16,500,2.8
+301730,Punjab Restaurant,Faridabad,77.305563,28.4901368,Badarpur Border,North Indian,Indian Rupees(Rs.),No,No,1,8,150,2.8
+301729,Raju Dhaba,Faridabad,77.3061016,28.4900979,Badarpur Border,North Indian,Indian Rupees(Rs.),No,No,1,8,150,2.9
+301731,Rakheja Bakery,Faridabad,77.3057446,28.490062,Badarpur Border,Bakery,Indian Rupees(Rs.),No,No,1,7,100,2.8
+311053,Snax Points,Faridabad,77.3053835,28.4901198,Badarpur Border,"Chinese, North Indian, Fast Food",Indian Rupees(Rs.),No,No,1,4,300,3
+9299,Aggarwal Sweet Corner,Faridabad,77.30274167,28.49629167,Badarpur Border,Mithai,Indian Rupees(Rs.),No,No,1,1,100,1
+9178,Kashyap Vaishno Dhaba,Faridabad,77.303542,28.4959154,Badarpur Border,North Indian,Indian Rupees(Rs.),No,No,1,3,100,1
+18477319,Total Food Court,Faridabad,0,0,Badarpur Border,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,1,3,400,1
+18433852,The Chaiwalas,Faridabad,77.3000877,28.4262842,Badkal Lake,Cafe,Indian Rupees(Rs.),No,No,1,0,300,1
+304046,Cafe And More,Faridabad,77.2905651,28.4946638,Charmwood Village,"Fast Food, North Indian",Indian Rupees(Rs.),No,No,1,4,300,2.9
+309936,Green Chick Chop,Faridabad,77.2905276,28.4946804,Charmwood Village,"Raw Meats, North Indian, Fast Food",Indian Rupees(Rs.),No,No,1,7,350,3
+309927,Kolkata Hot Kathi Rolls,Faridabad,77.2918292,28.4922473,Charmwood Village,"Fast Food, Chinese",Indian Rupees(Rs.),No,No,1,11,300,2.9
+18377449,Aapki Rasoi,Faridabad,77.2918292,28.4990636,Charmwood Village,North Indian,Indian Rupees(Rs.),No,No,1,1,200,1
+18465871,Fusion Food Corner,Faridabad,0,0,Charmwood Village,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,0,300,1
+18472646,Punjabi Rasoi,Faridabad,77.292431,28.4923251,Charmwood Village,North Indian,Indian Rupees(Rs.),No,No,1,0,400,1
+18037826,Kebab Xpress,Faridabad,77.3074479,28.4698631,"Crown Interiorz Mall, Sector 35, Faridabad","North Indian, Mughlai",Indian Rupees(Rs.),No,Yes,2,49,600,2.8
+301163,McDonald's,Faridabad,77.3074479,28.4695043,"Crown Interiorz Mall, Sector 35, Faridabad","Fast Food, Burger",Indian Rupees(Rs.),No,No,2,58,500,3.4
+4931,Suruchi,Faridabad,77.3074479,28.4701322,"Crown Interiorz Mall, Sector 35, Faridabad","North Indian, South Indian, Gujarati, Rajasthani",Indian Rupees(Rs.),No,No,2,233,700,3.4
+1804,Berco's,Faridabad,77.3072684,28.4700256,"Crown Interiorz Mall, Sector 35, Faridabad","Chinese, Thai",Indian Rupees(Rs.),No,Yes,3,508,1100,3.8
+312102,Dunkin' Donuts,Faridabad,77.3074031,28.4693655,"Crown Interiorz Mall, Sector 35, Faridabad","Burger, Desserts, Fast Food",Indian Rupees(Rs.),No,Yes,2,98,600,3.6
+18217857,The Chocolate Room,Faridabad,77.3074031,28.4693655,"Crown Interiorz Mall, Sector 35, Faridabad","Cafe, Desserts",Indian Rupees(Rs.),No,Yes,2,59,900,3.6
+18471268,Baskin Robbin,Faridabad,77.3074479,28.469594,"Crown Interiorz Mall, Sector 35, Faridabad",Desserts,Indian Rupees(Rs.),No,No,1,0,300,1
+18381244,Popcorn Fusion,Faridabad,77.3074031,28.4693655,"Crown Interiorz Mall, Sector 35, Faridabad",Fast Food,Indian Rupees(Rs.),No,No,1,1,200,1
+18408041,Subway,Faridabad,77.3074928,28.4700019,"Crown Interiorz Mall, Sector 35, Faridabad","American, Fast Food, Salad, Healthy Food",Indian Rupees(Rs.),No,No,2,2,500,1
+311051,KFC,Faridabad,77.30706006,28.46980656,"Crown Interiorz Mall, Sector 35, Faridabad","American, Fast Food, Burger",Indian Rupees(Rs.),No,Yes,2,57,500,2.1
+18133510,Barbeque Nation,Faridabad,77.3073785,28.4698629,"Crown Interiorz Mall, Sector 35, Faridabad",North Indian,Indian Rupees(Rs.),No,No,3,299,1600,4
+308380,Yo! China,Faridabad,77.3074031,28.4693655,"Crown Interiorz Mall, Sector 35, Faridabad",Chinese,Indian Rupees(Rs.),No,Yes,3,239,1300,4.1
+6077,Giani's,Faridabad,77.3130127,28.3980691,"Crown Plaza Mall, Sector 15, Faridabad","Ice Cream, Desserts",Indian Rupees(Rs.),No,No,1,16,400,3.2
+308082,Momo-Cha,Faridabad,77.3130127,28.3979794,"Crown Plaza Mall, Sector 15, Faridabad",Fast Food,Indian Rupees(Rs.),No,Yes,1,16,200,2.7
+309558,Shree Rathnam,Faridabad,77.3128332,28.397424,"Crown Plaza Mall, Sector 15, Faridabad","South Indian, North Indian, Chinese",Indian Rupees(Rs.),No,Yes,2,48,800,3.4
+8128,Mirage Restro Bar,Faridabad,77.3131025,28.3978083,"Crown Plaza Mall, Sector 15, Faridabad","North Indian, Mughlai",Indian Rupees(Rs.),Yes,No,3,25,1000,2.4
+304062,Jai Jagannath Hotel,Faridabad,77.294319,28.4937692,Dayal Bagh,South Indian,Indian Rupees(Rs.),No,No,1,3,200,1
+9785,Gelato Vinto,Faridabad,77.3139102,28.3868454,"Eldeco Station 1 Mall, Sector 12, Faridabad","Desserts, Ice Cream",Indian Rupees(Rs.),No,No,1,12,250,2.8
+312514,Maggi Point,Faridabad,77.3140449,28.3869029,"Eldeco Station 1 Mall, Sector 12, Faridabad",Fast Food,Indian Rupees(Rs.),No,No,1,2,200,1
+308961,Angaar,Faridabad,77.3056977,28.4719854,"Hotel Saffron Kiran, Faridabad","North Indian, Chinese",Indian Rupees(Rs.),Yes,No,3,0,1200,1
+308963,TcozY,Faridabad,77.3066401,28.4722089,"Hotel Saffron Kiran, Faridabad",Cafe,Indian Rupees(Rs.),No,No,3,0,1500,1
+308962,The Retriever,Faridabad,77.3062507,28.4723428,"Hotel Saffron Kiran, Faridabad","North Indian, Mughlai, Chinese",Indian Rupees(Rs.),Yes,No,3,0,1500,1
+8169,Bangali Sweets & Restaurant,Faridabad,77.3153578,28.4534629,Indraprastha Colony,Mithai,Indian Rupees(Rs.),No,No,1,2,100,1
+309368,Silver,Faridabad,77.316429,28.446715,K Hotel,"North Indian, Chinese, Continental",Indian Rupees(Rs.),Yes,No,3,3,1500,1
+18472429,Chill 'N Grill,Faridabad,77.2900667,28.3954463,NIT,North Indian,Indian Rupees(Rs.),No,No,1,0,300,1
+18472418,Punjabi Restaurant,Faridabad,77.2874809,28.3939512,NIT,"North Indian, Mughlai",Indian Rupees(Rs.),No,No,2,0,500,1
+18472426,Standard Chicken Point,Faridabad,77.2875524,28.3940171,NIT,Mughlai,Indian Rupees(Rs.),No,No,2,0,500,1
+18450934,The Grillz & Gravy,Faridabad,77.2922781,28.3982684,NIT,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,0,400,1
+6025,Cakes 'n Bakes - Park Plaza,Faridabad,77.2969459,28.4292178,"Park Plaza, Sector 21, Faridabad",Bakery,Indian Rupees(Rs.),No,No,3,15,1000,3
+6013,Cafe Bite,Faridabad,77.3144487,28.383665,"Parsavnath City Mall, Sector 12, Faridabad",Cafe,Indian Rupees(Rs.),No,No,2,19,500,3.2
+8153,Cafe Light,Faridabad,77.3144877,28.3837046,"Parsavnath City Mall, Sector 12, Faridabad","Cafe, Chinese, Fast Food",Indian Rupees(Rs.),No,No,2,8,500,2.8
+18471296,Little Cafe,Faridabad,77.3145373,28.3836738,"Parsavnath City Mall, Sector 12, Faridabad","Fast Food, Beverages",Indian Rupees(Rs.),No,No,1,0,300,1
+18279477,Momo-Cha,Faridabad,77.3291609,28.3754863,Sector 10,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,20,450,2.8
+18359331,Oregano India,Faridabad,77.3266079,28.3689797,Sector 10,"Fast Food, Chinese, Italian",Indian Rupees(Rs.),No,No,2,11,500,3.1
+301151,Sagar Bakery,Faridabad,77.3270132,28.3692291,Sector 10,Bakery,Indian Rupees(Rs.),No,No,1,11,150,3
+18204479,Smugglers,Faridabad,77.329628,28.3702087,Sector 10,North Indian,Indian Rupees(Rs.),No,Yes,1,7,450,3.1
+2198,Welcome,Faridabad,77.3288978,28.3777541,Sector 10,"North Indian, Chinese",Indian Rupees(Rs.),Yes,No,2,13,700,2.9
+18434243,Giani's,Faridabad,77.3270132,28.3692291,Sector 10,"Ice Cream, Desserts",Indian Rupees(Rs.),No,No,1,0,400,1
+18273628,Invitation,Faridabad,0,0,Sector 10,North Indian,Indian Rupees(Rs.),No,No,2,3,700,1
+18471262,New Dilight,Faridabad,77.3295018,28.3730138,Sector 10,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,2,0,500,1
+18258480,Chimney,Faridabad,77.319026,28.3725172,Sector 11,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),Yes,Yes,2,25,800,3.3
+9698,Chopstick,Faridabad,77.3185858,28.371835,Sector 11,Chinese,Indian Rupees(Rs.),No,No,1,22,300,3
+8326,Hot & Tasty Chinese Food,Faridabad,77.3184832,28.3719511,Sector 11,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,26,450,2.6
+18270379,Sanjha Chulha,Faridabad,77.32157,28.3692881,Sector 11,"North Indian, Mughlai",Indian Rupees(Rs.),No,Yes,2,16,700,2.9
+304006,Frontier,Faridabad,77.31429167,28.38339444,Sector 12,Bakery,Indian Rupees(Rs.),No,No,1,7,200,2.9
+308957,Oxy Lounge,Faridabad,77.3244365,28.384502,Sector 12,"North Indian, Chinese, Italian",Indian Rupees(Rs.),Yes,Yes,3,28,1500,3.1
+18427216,City Dhaba,Faridabad,77.3144456,28.3811924,Sector 12,"North Indian, Chinese",Indian Rupees(Rs.),No,No,2,0,550,1
+18433315,Garam Masala,Faridabad,0,0,Sector 12,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,0,400,1
+8266,Mittal Fast Food,Faridabad,77.32425,28.38471389,Sector 12,Fast Food,Indian Rupees(Rs.),No,No,1,0,100,1
+18383469,Al Bake,Faridabad,77.3229299,28.395009,Sector 15,"North Indian, Chinese",Indian Rupees(Rs.),No,Yes,2,31,600,3.2
+1367,Anupam Sweet,Faridabad,77.3222568,28.3949008,Sector 15,"North Indian, South Indian, Chinese, Fast Food, Mithai",Indian Rupees(Rs.),No,No,1,70,400,3.4
+9650,Cafe Coffee Day,Faridabad,77.3236112,28.3952671,Sector 15,Cafe,Indian Rupees(Rs.),No,No,1,67,450,3.3
+308335,Chicago Pizza,Faridabad,77.3217184,28.3950296,Sector 15,Pizza,Indian Rupees(Rs.),No,No,2,35,600,2.7
+18391065,Crispy Crust,Faridabad,77.3241683,28.3950992,Sector 15,"North Indian, Chinese, Fast Food",Indian Rupees(Rs.),No,Yes,2,22,500,3.4
+301193,Frontier,Faridabad,77.3235114,28.3951274,Sector 15,Bakery,Indian Rupees(Rs.),No,No,1,17,200,3.3
+18107832,Gulab,Faridabad,77.3239437,28.3952906,Sector 15,"North Indian, South Indian, Fast Food, Street Food, Mithai",Indian Rupees(Rs.),No,Yes,2,39,600,2.6
+18089254,Hunger Cure Express,Faridabad,77.3217312,28.3946937,Sector 15,"Fast Food, Beverages",Indian Rupees(Rs.),No,No,2,35,500,3.3
+312981,Maitre Patissier,Faridabad,0,0,Sector 15,Bakery,Indian Rupees(Rs.),No,No,2,35,500,3.4
+18082235,Momo-Cha,Faridabad,77.3224363,28.3951869,Sector 15,"Chinese, Fast Food",Indian Rupees(Rs.),No,No,1,32,400,2.7
+18138421,Nirula's,Faridabad,,28.452631,Sector 15,"Fast Food, Desserts, Ice Cream, Beverages",Indian Rupees(Rs.),No,No,2,14,950,2.6
+18421965,The Grub House,Faridabad,77.323244,28.3950834,Sector 15,"Cafe, North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,2,17,600,2.7
+303267,Twenty Four Seven,Faridabad,77.3234608,28.3950913,Sector 15,"Fast Food, North Indian",Indian Rupees(Rs.),No,No,1,35,300,3.4
+7471,Cafe Parmesan,Faridabad,77.3236479,28.3950766,Sector 15,Italian,Indian Rupees(Rs.),No,No,3,799,1000,4.5
+18219542,Briosca,Faridabad,77.3234235,28.3952798,Sector 15,"Bakery, Fast Food",Indian Rupees(Rs.),No,Yes,1,62,400,3.6
+18355112,Burger Point,Faridabad,77.3220773,28.3949736,Sector 15,"Burger, Fast Food",Indian Rupees(Rs.),No,Yes,1,24,300,3.5
+18270895,Cafe Grub Up,Faridabad,77.3235233,28.395196,Sector 15,"Cafe, American, Mexican, Italian, Thai",Indian Rupees(Rs.),Yes,No,2,134,900,3.8
+18313839,Cakes At Bhawanas,Faridabad,77.317231,28.393261,Sector 15,Bakery,Indian Rupees(Rs.),No,No,1,26,400,3.5
+5005,Chaudhary Bhojnalaya,Faridabad,77.3240517,28.3953389,Sector 15,North Indian,Indian Rupees(Rs.),No,No,1,93,400,3.6
+1820,Chickenette,Faridabad,77.3244107,28.3951035,Sector 15,"Raw Meats, North Indian, Chinese, Fast Food",Indian Rupees(Rs.),No,No,2,280,650,3.7
+3863,Giani,Faridabad,77.3216428,28.3951385,Sector 15,"Ice Cream, Desserts",Indian Rupees(Rs.),No,No,1,70,400,3.6
+9814,Green Chick Chop,Faridabad,77.3244107,28.3951932,Sector 15,"Raw Meats, North Indian, Fast Food",Indian Rupees(Rs.),No,No,1,31,350,3.5
+18474912,Hash Stix,Faridabad,77.32343964,28.39483205,Sector 15,Fast Food,Indian Rupees(Rs.),No,No,1,25,250,3.6
+18161568,Juice On Go,Faridabad,77.32328642,28.39527358,Sector 15,"Juices, Beverages",Indian Rupees(Rs.),No,No,1,18,150,3.5
+18416829,Keventers,Faridabad,77.3218081,28.3947688,Sector 15,Beverages,Indian Rupees(Rs.),No,No,1,27,400,3.6
+18400756,MD's Kebabs & Curries,Faridabad,77.3244107,28.395283,Sector 15,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,Yes,2,27,750,3.8
+301177,Perfect Bake,Faridabad,77.29659833,28.43002333,Sector 15,"Bakery, Fast Food",Indian Rupees(Rs.),No,No,1,39,400,3.5
+6161,Perfect Bake,Faridabad,77.3231543,28.3952545,Sector 15,"Bakery, Fast Food",Indian Rupees(Rs.),No,No,1,126,400,3.6
+2565,Sethi's Delicacy,Faridabad,77.3244651,28.3950376,Sector 15,"Fast Food, Bakery",Indian Rupees(Rs.),No,No,1,75,150,3.8
+3866,Subway,Faridabad,77.3219427,28.3948264,Sector 15,"American, Fast Food, Salad, Healthy Food",Indian Rupees(Rs.),No,No,2,143,500,3.5
+18250288,CafÌ© Bogchi,Faridabad,77.32380275,28.39572041,Sector 15,"Cafe, Italian, Mexican, Continental",Indian Rupees(Rs.),No,Yes,2,153,650,4.1
+1430,Ashoka Restaurant,Faridabad,77.3203273,28.4104693,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,43,400,2.9
+18393702,Baskin Robbins,Faridabad,77.3201927,28.4107707,Sector 16,Ice Cream,Indian Rupees(Rs.),No,Yes,1,4,300,2.9
+6152,China Hot Pot,Faridabad,77.3192063,28.4106963,Sector 16,"Chinese, Fast Food",Indian Rupees(Rs.),No,No,1,25,400,2.5
+306962,Handi Chhadeyan Di,Faridabad,77.3185323,28.4106593,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,26,400,3.1
+18445360,Hungrill,Faridabad,77.3190765,28.4108198,Sector 16,"North Indian, Chinese, Continental",Indian Rupees(Rs.),No,No,2,4,500,3
+6150,Kant Khana Khazana,Faridabad,77.318667,28.4106772,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,22,250,3.4
+18421024,Open Yard,Faridabad,77.3199015,28.4095652,Sector 16,"North Indian, Chinese, Continental",Indian Rupees(Rs.),Yes,No,2,14,800,3.3
+18471260,Recipe Badshah,Faridabad,0,0,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,8,300,3.1
+18367316,The Chai Cafe,Faridabad,77.3185772,28.4108878,Sector 16,"Cafe, Chinese",Indian Rupees(Rs.),No,No,1,8,400,3.1
+18466931,Apna Restaurant,Faridabad,77.3190262,28.4105451,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,0,400,1
+18466420,Chaudhary Chaap & Chinese,Faridabad,77.3187017,28.4106649,Sector 16,"Chinese, North Indian",Indian Rupees(Rs.),No,No,1,0,300,1
+18464607,Chings Chinese,Faridabad,77.3200132,28.4118307,Sector 16,Chinese,Indian Rupees(Rs.),No,No,1,0,300,1
+18464631,Food On Wheels,Faridabad,77.3202824,28.4120355,Sector 16,Chinese,Indian Rupees(Rs.),No,No,1,0,300,1
+301170,Gulshan Hotel,Faridabad,77.3203273,28.4104693,Sector 16,North Indian,Indian Rupees(Rs.),No,No,1,2,250,1
+18466939,Maa Kali Foods,Faridabad,77.3196991,28.4104999,Sector 16,Chinese,Indian Rupees(Rs.),No,No,1,0,250,1
+18380180,The Street Kitchen,Faridabad,77.3185772,28.4107084,Sector 16,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,0,400,1
+18466407,United Kitchen,Faridabad,77.3189708,28.4120254,Sector 16,Fast Food,Indian Rupees(Rs.),No,No,2,0,500,1
+304001,Eat N Treat,Faridabad,77.3266023,28.4101024,Sector 17,"Chinese, North Indian",Indian Rupees(Rs.),No,No,1,20,400,2.8
+8319,Hotel Ekant,Faridabad,77.329167,28.4101795,Sector 17,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,2,39,700,2.7
+303871,Momo-Cha,Faridabad,77.3288978,28.4106029,Sector 17,"North Indian, Chinese",Indian Rupees(Rs.),No,Yes,2,56,600,2.7
+8321,Paradise Inn,Faridabad,77.3275764,28.4103725,Sector 17,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,2,43,500,2.7
+311047,Red Chilli,Faridabad,77.326744,28.4099515,Sector 17,Chinese,Indian Rupees(Rs.),No,No,1,9,300,2.8
+8320,Shiv Restaurant,Faridabad,77.3278324,28.4101647,Sector 17,North Indian,Indian Rupees(Rs.),No,No,1,20,400,2.7
+8308,Sohan Sweets & Namkeen,Faridabad,77.3279106,28.4103306,Sector 17,Mithai,Indian Rupees(Rs.),No,No,1,41,100,3.2
+18303717,The Binge Box Cafe,Faridabad,77.3279106,28.4105998,Sector 17,Cafe,Indian Rupees(Rs.),No,No,2,18,500,3.4
+304004,Tmos Moving Feast,Faridabad,77.32609671,28.4101156,Sector 17,"Chinese, North Indian",Indian Rupees(Rs.),No,Yes,2,76,700,3.3
+18472625,Tmos Cafe Corner,Faridabad,77.326227,28.409801,Sector 17,Cafe,Indian Rupees(Rs.),Yes,Yes,2,1,700,1
+18420432,Parkash Dhaba,Faridabad,77.3138205,28.417529,Sector 19,"North Indian, Chinese",Indian Rupees(Rs.),No,No,1,6,200,3
+9824,Sanjha Chulha,Faridabad,77.3144487,28.4175882,Sector 19,"North Indian, Mughlai",Indian Rupees(Rs.),No,Yes,2,219,700,3.3
+8029,Hareram Bikanerzaika,Faridabad,77.2969594,28.4304159,Sector 21,"Mithai, Street Food",Indian Rupees(Rs.),No,No,1,11,200,2.8
+312788,Kulcha Paaji,Faridabad,77.2967664,28.4317132,Sector 21,Street Food,Indian Rupees(Rs.),No,No,1,12,100,3.1
+309672,Shree Bikaner Misthan Bhandar,Faridabad,77.2964432,28.4301217,Sector 21,"Street Food, South Indian, Mithai",Indian Rupees(Rs.),No,No,1,13,350,2.8
+18359861,"The Hub - Gourmet, Bakers & More",Faridabad,0,0,Sector 21,"Bakery, Fast Food",Indian Rupees(Rs.),No,No,1,7,200,3
+18439547,Anand Dhaba,Faridabad,77.2963379,28.4298355,Sector 21,North Indian,Indian Rupees(Rs.),No,No,1,1,200,1
+18241538,Bikaneri Sweets & Restaurant,Faridabad,0,0,Sector 21,"Mithai, North Indian",Indian Rupees(Rs.),No,No,1,0,250,1
+18452730,Delicieux Ice Cream Rolls,Faridabad,77.2969354,28.4300562,Sector 21,"Ice Cream, Desserts, Beverages",Indian Rupees(Rs.),No,No,1,1,400,1
+18317486,Flying Tandoor,Faridabad,77.291919,28.4221037,Sector 21,"North Indian, Fast Food",Indian Rupees(Rs.),No,No,1,3,300,1
+18432933,Food Station,Faridabad,0,0,Sector 21,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,1,0,400,1
+303267,Twenty Four Seven,Faridabad,77.3234608,28.3950913,Sector 15,"Fast Food, North Indian",Indian Rupees(Rs.),No,No,1,35,300,3.4
+8321,Paradise Inn,Faridabad,77.3275764,28.4103725,Sector 17,"North Indian, Mughlai, Chinese",Indian Rupees(Rs.),No,No,2,43,500,2.7
